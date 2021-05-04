@@ -135,27 +135,20 @@ def calcPoints(actuRain, histRain, guessDict):
         elif (scoreFunc == 'c'):
             maxPoints = -1 * \
                 math.exp((-(actual - mean)**2) / (2*(stdDev**2))) + 5
+        # due to the nature of the log function, 0 is passed in it will error
+        # out, so 0 rain point value is set manually
         elif (scoreFunc == 'd'):
-            if (actual == 0):
-                maxPoints = 8
-            else:
-                maxPoints = -4 * \
-                    math.exp(-((math.log(actual / mean))**2) /
-                             (2 * (stdDev / 2)**2)) + 8
+            maxPoints = 8 if actual == 0 else -4 * \
+                math.exp(-((math.log(actual / mean))**2) /
+                         (2 * (stdDev / 2)**2)) + 8
         elif (scoreFunc == 'e'):
-            if (actual == 0):
-                maxPoints = 6
-            else:
-                maxPoints = -2 * \
-                    math.exp(-((math.log(actual / mean))**2) /
-                             (2 * (stdDev / 2)**2)) + 6
+            maxPoints = 6 if actual == 0 else -2 * \
+                math.exp(-((math.log(actual / mean))**2) /
+                         (2 * (stdDev / 2)**2)) + 6
         elif (scoreFunc == 'f'):
-            if (actual == 0):
-                maxPoints = 5
-            else:
-                maxPoints = -1 * \
-                    math.exp(-((math.log(actual / mean))**2) /
-                             (2 * (stdDev / 2)**2)) + 5
+            maxPoints = 5 if actual == 0 else -1 * \
+                math.exp(-((math.log(actual / mean))**2) /
+                         (2 * (stdDev / 2)**2)) + 5
 
         # calc actual points recieved
         if (guess < actual - stdDev or guess > actual + stdDev):

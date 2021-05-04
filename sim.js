@@ -3,11 +3,11 @@ const svgHeight = 500;
 const svgWidth = 500;
 const bigMargin = 40;
 const smallMargin = 10;
-const rectWidth = (svgWidth - bigMargin - smallMargin) / 80;
+const rectWidth = (svgWidth - bigMargin - smallMargin) / 90;
 
 let xScale = d3.scaleLinear();
 let yScale = d3.scaleLinear();
-let method = 'a';
+let method = '';
 
 function createSvg(sel) {
     return sel
@@ -84,39 +84,10 @@ const yAxis = d3.axisLeft(yScale);
 /** create it all */
 setScales()
 
-// original scoring functions
-d3.select("#plot-a")
-    .callAndReturn(createSvg)
-    .callAndReturn(createRects);
-getAxes()
-
-method = 'b';
-d3.select("#plot-b")
-    .callAndReturn(createSvg)
-    .callAndReturn(createRects);
-getAxes()
-
-method = 'c';
-d3.select("#plot-c")
-    .callAndReturn(createSvg)
-    .callAndReturn(createRects);
-getAxes()
-
-// skewed scoring functions
-method = 'd';
-d3.select("#plot-d")
-    .callAndReturn(createSvg)
-    .callAndReturn(createRects);
-getAxes()
-
-method = 'e';
-d3.select("#plot-e")
-    .callAndReturn(createSvg)
-    .callAndReturn(createRects);
-getAxes()
-
-method = 'f';
-d3.select("#plot-f")
-    .callAndReturn(createSvg)
-    .callAndReturn(createRects);
-getAxes()
+for (func of Object.keys(data)) {
+    method = func; // for the callAndReturn functions
+    d3.select(`#plot-${method}`)
+        .callAndReturn(createSvg)
+        .callAndReturn(createRects);
+    getAxes()
+}
