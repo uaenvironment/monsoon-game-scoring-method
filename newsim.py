@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 # constants
 CITIES = ['Albuquerque', 'El Paso', 'Flagstaff', 'Phoenix', 'Tucson']
 MONTHS = ['June', 'July', 'August', 'September']
-METHODS = ['a', 'b', 'c']
+METHODS = ['a', 'b', 'c', 'd', 'e', 'f']
 GUESSNUM = 1000
 
 
@@ -125,16 +125,30 @@ def calcPoints(actuRain, histRain, guessDict):
         getPoints(stdDev, mean, guess, actual, scoreFunc) - calculates the max
         points based off of user's choice, then returns the points rewarded
         '''
-        # using dharma's b funtcion
+        # using dharma's original (a, b, c) and skewed (d, e, f) functions
         if (scoreFunc == 'a'):
             maxPoints = -4 * \
                 math.exp((-(actual - mean)**2) / (2*(stdDev**2))) + 8
         elif (scoreFunc == 'b'):
             maxPoints = -2 * \
                 math.exp((-(actual - mean)**2) / (2*(stdDev**2))) + 6
-        else:
+        elif (scoreFunc == 'c'):
             maxPoints = -1 * \
                 math.exp((-(actual - mean)**2) / (2*(stdDev**2))) + 5
+        # due to the nature of the log function, 0 is passed in it will error
+        # out, so 0 rain point value is set manually
+        elif (scoreFunc == 'd'):
+            maxPoints = 8 if actual == 0 else -4 * \
+                math.exp(-((math.log(actual / mean))**2) /
+                         (2 * (stdDev / 2)**2)) + 8
+        elif (scoreFunc == 'e'):
+            maxPoints = 6 if actual == 0 else -2 * \
+                math.exp(-((math.log(actual / mean))**2) /
+                         (2 * (stdDev / 2)**2)) + 6
+        elif (scoreFunc == 'f'):
+            maxPoints = 5 if actual == 0 else -1 * \
+                math.exp(-((math.log(actual / mean))**2) /
+                         (2 * (stdDev / 2)**2)) + 5
 
         # calc actual points recieved
         if (guess < actual - stdDev or guess > actual + stdDev):

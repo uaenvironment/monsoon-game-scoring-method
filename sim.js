@@ -3,11 +3,11 @@ const svgHeight = 500;
 const svgWidth = 500;
 const bigMargin = 40;
 const smallMargin = 10;
-const rectWidth = (svgWidth - bigMargin - smallMargin) / 80;
+const rectWidth = (svgWidth - bigMargin - smallMargin) / 90;
 
 let xScale = d3.scaleLinear();
 let yScale = d3.scaleLinear();
-let method = 'a';
+let method = '';
 
 function createSvg(sel) {
     return sel
@@ -21,7 +21,7 @@ function setScales() {
     // set scales for each graph
     // scales are set for a guess number of 1000
     xScale
-        .domain([0, 80])
+        .domain([0, 90])
         .range([bigMargin, svgWidth - smallMargin]);
     yScale
         .domain([0, 80])
@@ -84,19 +84,10 @@ const yAxis = d3.axisLeft(yScale);
 /** create it all */
 setScales()
 
-d3.select("#plot-a")
-    .callAndReturn(createSvg)
-    .callAndReturn(createRects);
-getAxes()
-
-method = 'b';
-d3.select("#plot-b")
-    .callAndReturn(createSvg)
-    .callAndReturn(createRects);
-getAxes()
-
-method = 'c';
-d3.select("#plot-c")
-    .callAndReturn(createSvg)
-    .callAndReturn(createRects);
-getAxes()
+for (func of Object.keys(data)) {
+    method = func; // for the callAndReturn functions
+    d3.select(`#plot-${method}`)
+        .callAndReturn(createSvg)
+        .callAndReturn(createRects);
+    getAxes()
+}
