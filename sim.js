@@ -21,7 +21,7 @@ function setScales() {
     // set scales for each graph
     // scales are set for a guess number of 1000
     xScale
-        .domain([0, 80])
+        .domain([0, 90])
         .range([bigMargin, svgWidth - smallMargin]);
     yScale
         .domain([0, 80])
@@ -84,6 +84,7 @@ const yAxis = d3.axisLeft(yScale);
 /** create it all */
 setScales()
 
+// original scoring functions
 d3.select("#plot-a")
     .callAndReturn(createSvg)
     .callAndReturn(createRects);
@@ -97,6 +98,25 @@ getAxes()
 
 method = 'c';
 d3.select("#plot-c")
+    .callAndReturn(createSvg)
+    .callAndReturn(createRects);
+getAxes()
+
+// skewed scoring functions
+method = 'd';
+d3.select("#plot-d")
+    .callAndReturn(createSvg)
+    .callAndReturn(createRects);
+getAxes()
+
+method = 'e';
+d3.select("#plot-e")
+    .callAndReturn(createSvg)
+    .callAndReturn(createRects);
+getAxes()
+
+method = 'f';
+d3.select("#plot-f")
     .callAndReturn(createSvg)
     .callAndReturn(createRects);
 getAxes()
