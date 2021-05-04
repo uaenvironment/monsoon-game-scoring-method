@@ -1,0 +1,4516 @@
+{
+    "2020": {
+        "Albuquerque": {
+            "June": "0.17",
+            "July": "1.19",
+            "August": "0.64",
+            "September": "0.62",
+            "Total": "2.62"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "1.47",
+            "August": "0.05",
+            "September": "0.59",
+            "Total": "2.11"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "1.47",
+            "August": "0.31",
+            "September": "0.00",
+            "Total": "1.78"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.10",
+            "August": "0.90",
+            "September": "0.00",
+            "Total": "1.00"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "0.46",
+            "August": "1.16",
+            "September": "0.00",
+            "Total": "1.62"
+        }
+    },
+    "2019": {
+        "Albuquerque": {
+            "June": "0.03",
+            "July": "1.94",
+            "August": "0.43",
+            "September": "0.45",
+            "Total": "2.85"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "0.18",
+            "August": "0.89",
+            "September": "1.54",
+            "Total": "2.61"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "0.72",
+            "August": "0.41",
+            "September": "0.95",
+            "Total": "2.08"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.17",
+            "August": "0.24",
+            "September": "0.25",
+            "Total": "0.66"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "1.07",
+            "August": "1.57",
+            "September": "2.42",
+            "Total": "5.06"
+        }
+    },
+    "2018": {
+        "Albuquerque": {
+            "June": "0.83",
+            "July": "2.21",
+            "August": "0.00",
+            "September": "0.84",
+            "Total": "4.83"
+        },
+        "El Paso": {
+            "June": "0.31",
+            "July": "0.00",
+            "August": "1.16",
+            "September": "1.21",
+            "Total": "0.00"
+        },
+        "Flagstaff": {
+            "June": "0.38",
+            "July": "3.14",
+            "August": "5.15",
+            "September": "1.30",
+            "Total": "9.97"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.70",
+            "August": "1.50",
+            "September": "0.43",
+            "Total": "2.63"
+        },
+        "Tucson": {
+            "June": "0.91",
+            "July": "2.26",
+            "August": "2.71",
+            "September": "1.14",
+            "Total": "7.02"
+        }
+    },
+    "2017": {
+        "Albuquerque": {
+            "June": "0.48",
+            "July": "0.85",
+            "August": "1.49",
+            "September": "2.20",
+            "Total": "5.02"
+        },
+        "El Paso": {
+            "June": "1.00",
+            "July": "3.37",
+            "August": "2.01",
+            "September": "1.16",
+            "Total": "7.54"
+        },
+        "Flagstaff": {
+            "June": "0.17",
+            "July": "4.48",
+            "August": "3.29",
+            "September": "0.42",
+            "Total": "8.36"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.89",
+            "August": "1.43",
+            "September": "0.00",
+            "Total": "2.32"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "6.80",
+            "August": "1.74",
+            "September": "0.03",
+            "Total": "8.57"
+        }
+    },
+    "2016": {
+        "Albuquerque": {
+            "June": "0.05",
+            "July": "1.14",
+            "August": "0.86",
+            "September": "1.04",
+            "Total": "3.09"
+        },
+        "El Paso": {
+            "June": "0.19",
+            "July": "0.24",
+            "August": "4.46",
+            "September": "2.12",
+            "Total": "7.01"
+        },
+        "Flagstaff": {
+            "June": "0.94",
+            "July": "2.59",
+            "August": "6.34",
+            "September": "1.54",
+            "Total": "11.41"
+        },
+        "Phoenix": {
+            "June": "0.01",
+            "July": "0.89",
+            "August": "1.27",
+            "September": "0.32",
+            "Total": "2.49"
+        },
+        "Tucson": {
+            "June": "1.39",
+            "July": "3.32",
+            "August": "1.09",
+            "September": "1.60",
+            "Total": "7.40"
+        }
+    },
+    "2015": {
+        "Albuquerque": {
+            "June": "0.23",
+            "July": "3.28",
+            "August": "0.32",
+            "September": "1.18",
+            "Total": "5.01"
+        },
+        "El Paso": {
+            "June": "0.11",
+            "July": "2.88",
+            "August": "1.55",
+            "September": "0.33",
+            "Total": "4.87"
+        },
+        "Flagstaff": {
+            "June": "0.56",
+            "July": "2.77",
+            "August": "2.85",
+            "September": "1.25",
+            "Total": "7.43"
+        },
+        "Phoenix": {
+            "June": "0.06",
+            "July": "1.13",
+            "August": "1.29",
+            "September": "0.81",
+            "Total": "3.29"
+        },
+        "Tucson": {
+            "June": "0.35",
+            "July": "2.08",
+            "August": "1.80",
+            "September": "2.40",
+            "Total": "6.63"
+        }
+    },
+    "2014": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "3.49",
+            "August": "1.45",
+            "September": "0.73",
+            "Total": "5.67"
+        },
+        "El Paso": {
+            "June": "0.01",
+            "July": "0.69",
+            "August": "1.79",
+            "September": "4.23",
+            "Total": "6.72"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "4.32",
+            "August": "5.31",
+            "September": "3.10",
+            "Total": "12.73"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.06",
+            "August": "1.17",
+            "September": "5.11",
+            "Total": "6.34"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "1.43",
+            "August": "1.89",
+            "September": "2.76",
+            "Total": "6.08"
+        }
+    },
+    "2013": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "2.77",
+            "August": "0.42",
+            "September": "3.97",
+            "Total": "7.16"
+        },
+        "El Paso": {
+            "June": "0.06",
+            "July": "3.13",
+            "August": "1.12",
+            "September": "3.85",
+            "Total": "8.16"
+        },
+        "Flagstaff": {
+            "June": "0.03",
+            "July": "7.57",
+            "August": "4.85",
+            "September": "3.24",
+            "Total": "15.70"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.77",
+            "August": "0.36",
+            "September": "0.86",
+            "Total": "2.99"
+        },
+        "Tucson": {
+            "June": "0.03",
+            "July": "2.60",
+            "August": "0.48",
+            "September": "0.63",
+            "Total": "3.74"
+        }
+    },
+    "2012": {
+        "Albuquerque": {
+            "June": "0.41",
+            "July": "0.89",
+            "August": "1.62",
+            "September": "0.44",
+            "Total": "3.36"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "2.39",
+            "August": "0.65",
+            "September": "1.41",
+            "Total": "4.45"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "3.45",
+            "August": "2.59",
+            "September": "0.26",
+            "Total": "6.30"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.96",
+            "August": "1.45",
+            "September": "0.59",
+            "Total": "3.00"
+        },
+        "Tucson": {
+            "June": "0.34",
+            "July": "4.13",
+            "August": "1.17",
+            "September": "0.38",
+            "Total": "6.02"
+        }
+    },
+    "2011": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "0.39",
+            "August": "0.93",
+            "September": "0.40",
+            "Total": "1.72"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "2.59",
+            "August": "1.11",
+            "September": "0.43",
+            "Total": "4.13"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "2.31",
+            "August": "2.76",
+            "September": "3.36",
+            "Total": "8.43"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.41",
+            "August": "0.17",
+            "September": "0.02",
+            "Total": "1.60"
+        },
+        "Tucson": {
+            "June": "0.03",
+            "July": "1.64",
+            "August": "1.35",
+            "September": "5.60",
+            "Total": "8.62"
+        }
+    },
+    "2010": {
+        "Albuquerque": {
+            "June": "0.76",
+            "July": "2.19",
+            "August": "0.95",
+            "September": "1.88",
+            "Total": "5.78"
+        },
+        "El Paso": {
+            "June": "1.08",
+            "July": "1.07",
+            "August": "0.31",
+            "September": "1.62",
+            "Total": "4.08"
+        },
+        "Flagstaff": {
+            "June": "0.09",
+            "July": "5.94",
+            "August": "3.56",
+            "September": "0.79",
+            "Total": "10.38"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.97",
+            "August": "0.38",
+            "September": "0.13",
+            "Total": "2.48"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "2.71",
+            "August": "2.04",
+            "September": "0.70",
+            "Total": "5.45"
+        }
+    },
+    "2009": {
+        "Albuquerque": {
+            "June": "0.80",
+            "July": "0.80",
+            "August": "0.94",
+            "September": "1.42",
+            "Total": "3.96"
+        },
+        "El Paso": {
+            "June": "2.24",
+            "July": "0.49",
+            "August": "0.59",
+            "September": "2.50",
+            "Total": "5.82"
+        },
+        "Flagstaff": {
+            "June": "0.36",
+            "July": "1.00",
+            "August": "0.74",
+            "September": "0.77",
+            "Total": "2.87"
+        },
+        "Phoenix": {
+            "June": "0.02",
+            "July": "0.40",
+            "August": "0.29",
+            "September": "0.16",
+            "Total": "0.87"
+        },
+        "Tucson": {
+            "June": "0.01",
+            "July": "1.78",
+            "August": "0.33",
+            "September": "0.74",
+            "Total": "2.86"
+        }
+    },
+    "2008": {
+        "Albuquerque": {
+            "June": "0.50",
+            "July": "3.38",
+            "August": "1.04",
+            "September": "0.08",
+            "Total": "5.00"
+        },
+        "El Paso": {
+            "June": "0.48",
+            "July": "4.34",
+            "August": "2.61",
+            "September": "1.52",
+            "Total": "8.95"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "2.35",
+            "August": "2.40",
+            "September": "0.69",
+            "Total": "5.44"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "2.15",
+            "August": "3.55",
+            "September": "0.00",
+            "Total": "5.70"
+        },
+        "Tucson": {
+            "June": "0.16",
+            "July": "3.42",
+            "August": "1.70",
+            "September": "0.24",
+            "Total": "5.52"
+        }
+    },
+    "2007": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "1.63",
+            "August": "1.05",
+            "September": "0.73",
+            "Total": "3.41"
+        },
+        "El Paso": {
+            "June": "0.51",
+            "July": "2.08",
+            "August": "0.57",
+            "September": "1.71",
+            "Total": "4.87"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "2.86",
+            "August": "2.56",
+            "September": "2.90",
+            "Total": "8.32"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.36",
+            "August": "0.31",
+            "September": "0.07",
+            "Total": "0.74"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "5.22",
+            "August": "0.90",
+            "September": "0.45",
+            "Total": "6.57"
+        }
+    },
+    "2006": {
+        "Albuquerque": {
+            "June": "1.03",
+            "July": "3.55",
+            "August": "3.74",
+            "September": "1.10",
+            "Total": "9.42"
+        },
+        "El Paso": {
+            "June": "0.27",
+            "July": "3.17",
+            "August": "6.85",
+            "September": "4.99",
+            "Total": "15.28"
+        },
+        "Flagstaff": {
+            "June": "0.49",
+            "July": "4.07",
+            "August": "2.83",
+            "September": "1.24",
+            "Total": "8.63"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.29",
+            "August": "1.26",
+            "September": "0.78",
+            "Total": "3.33"
+        },
+        "Tucson": {
+            "June": "0.19",
+            "July": "5.40",
+            "August": "3.01",
+            "September": "1.60",
+            "Total": "10.20"
+        }
+    },
+    "2005": {
+        "Albuquerque": {
+            "June": "0.04",
+            "July": "1.03",
+            "August": "0.49",
+            "September": "2.83",
+            "Total": "4.39"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "0.66",
+            "August": "4.35",
+            "September": "2.77",
+            "Total": "7.78"
+        },
+        "Flagstaff": {
+            "June": "0.17",
+            "July": "2.51",
+            "August": "3.41",
+            "September": "0.46",
+            "Total": "6.55"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.16",
+            "August": "1.21",
+            "September": "0.16",
+            "Total": "1.53"
+        },
+        "Tucson": {
+            "June": "0.01",
+            "July": "0.72",
+            "August": "4.52",
+            "September": "0.05",
+            "Total": "5.30"
+        }
+    },
+    "2004": {
+        "Albuquerque": {
+            "June": "0.61",
+            "July": "2.25",
+            "August": "0.23",
+            "September": "0.97",
+            "Total": "4.06"
+        },
+        "El Paso": {
+            "June": "0.93",
+            "July": "1.70",
+            "August": "3.04",
+            "September": "0.89",
+            "Total": "6.56"
+        },
+        "Flagstaff": {
+            "June": "0.02",
+            "July": "1.47",
+            "August": "4.71",
+            "September": "1.76",
+            "Total": "7.96"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.59",
+            "August": "0.36",
+            "September": "0.15",
+            "Total": "1.10"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "0.86",
+            "August": "0.95",
+            "September": "0.61",
+            "Total": "2.42"
+        }
+    },
+    "2003": {
+        "Albuquerque": {
+            "June": "0.05",
+            "July": "0.41",
+            "August": "0.71",
+            "September": "0.29",
+            "Total": "1.46"
+        },
+        "El Paso": {
+            "June": "0.49",
+            "July": "0.55",
+            "August": "0.66",
+            "September": "0.08",
+            "Total": "1.78"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "3.40",
+            "August": "3.03",
+            "September": "2.62",
+            "Total": "9.05"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.61",
+            "August": "0.51",
+            "September": "0.25",
+            "Total": "1.37"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "2.50",
+            "August": "2.04",
+            "September": "2.16",
+            "Total": "6.70"
+        }
+    },
+    "2002": {
+        "Albuquerque": {
+            "June": "0.11",
+            "July": "0.88",
+            "August": "1.59",
+            "September": "1.53",
+            "Total": "4.11"
+        },
+        "El Paso": {
+            "June": "0.17",
+            "July": "1.34",
+            "August": "0.76",
+            "September": "0.48",
+            "Total": "2.75"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "2.60",
+            "August": "1.00",
+            "September": "4.01",
+            "Total": "7.61"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.18",
+            "August": "0.00",
+            "September": "0.50",
+            "Total": "1.68"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "2.47",
+            "August": "1.63",
+            "September": "1.69",
+            "Total": "5.79"
+        }
+    },
+    "2001": {
+        "Albuquerque": {
+            "June": "0.20",
+            "July": "1.37",
+            "August": "1.59",
+            "September": "0.51",
+            "Total": "3.67"
+        },
+        "El Paso": {
+            "June": "0.19",
+            "July": "0.36",
+            "August": "1.72",
+            "September": "0.30",
+            "Total": "2.57"
+        },
+        "Flagstaff": {
+            "June": "0.03",
+            "July": "2.80",
+            "August": "3.46",
+            "September": "0.68",
+            "Total": "6.97"
+        },
+        "Phoenix": {
+            "June": "0.01",
+            "July": "0.67",
+            "August": "0.46",
+            "September": "0.00",
+            "Total": "1.14"
+        },
+        "Tucson": {
+            "June": "0.54",
+            "July": "1.09",
+            "August": "0.85",
+            "September": "0.33",
+            "Total": "2.81"
+        }
+    },
+    "2000": {
+        "Albuquerque": {
+            "June": "0.54",
+            "July": "0.83",
+            "August": "0.51",
+            "September": "0.37",
+            "Total": "2.25"
+        },
+        "El Paso": {
+            "June": "0.75",
+            "July": "1.59",
+            "August": "0.70",
+            "September": "0.00",
+            "Total": "3.04"
+        },
+        "Flagstaff": {
+            "June": "1.11",
+            "July": "0.29",
+            "August": "2.83",
+            "September": "0.36",
+            "Total": "4.59"
+        },
+        "Phoenix": {
+            "June": "0.34",
+            "July": "0.28",
+            "August": "0.58",
+            "September": "0.01",
+            "Total": "1.21"
+        },
+        "Tucson": {
+            "June": "1.56",
+            "July": "1.59",
+            "August": "1.70",
+            "September": "0.02",
+            "Total": "4.87"
+        }
+    },
+    "1999": {
+        "Albuquerque": {
+            "June": "0.60",
+            "July": "1.47",
+            "August": "3.04",
+            "September": "0.54",
+            "Total": "5.65"
+        },
+        "El Paso": {
+            "June": "1.44",
+            "July": "2.00",
+            "August": "1.43",
+            "September": "1.94",
+            "Total": "6.81"
+        },
+        "Flagstaff": {
+            "June": "0.04",
+            "July": "3.27",
+            "August": "2.45",
+            "September": "4.54",
+            "Total": "10.30"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "2.96",
+            "August": "0.92",
+            "September": "1.31",
+            "Total": "5.19"
+        },
+        "Tucson": {
+            "June": "0.16",
+            "July": "4.15",
+            "August": "3.05",
+            "September": "0.97",
+            "Total": "8.33"
+        }
+    },
+    "1998": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "2.37",
+            "August": "0.88",
+            "September": "0.15",
+            "Total": "3.40"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "2.07",
+            "August": "0.53",
+            "September": "0.66",
+            "Total": "3.26"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "4.72",
+            "August": "2.82",
+            "September": "4.45",
+            "Total": "11.99"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.94",
+            "August": "1.05",
+            "September": "0.58",
+            "Total": "3.57"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "4.06",
+            "August": "1.70",
+            "September": "1.10",
+            "Total": "6.86"
+        }
+    },
+    "1997": {
+        "Albuquerque": {
+            "June": "0.15",
+            "July": "2.04",
+            "August": "1.96",
+            "September": "2.43",
+            "Total": "6.58"
+        },
+        "El Paso": {
+            "June": "0.27",
+            "July": "0.91",
+            "August": "1.41",
+            "September": "1.55",
+            "Total": "4.14"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "0.21",
+            "August": "2.83",
+            "September": "3.68",
+            "Total": "6.72"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.17",
+            "August": "1.39",
+            "September": "0.45",
+            "Total": "2.01"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "0.51",
+            "August": "2.32",
+            "September": "1.43",
+            "Total": "4.26"
+        }
+    },
+    "1996": {
+        "Albuquerque": {
+            "June": "2.78",
+            "July": "1.03",
+            "August": "1.54",
+            "September": "1.45",
+            "Total": "6.80"
+        },
+        "El Paso": {
+            "June": "2.23",
+            "July": "2.48",
+            "August": "1.55",
+            "September": "1.24",
+            "Total": "7.50"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "1.79",
+            "August": "0.92",
+            "September": "3.73",
+            "Total": "6.44"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.04",
+            "August": "0.34",
+            "September": "0.54",
+            "Total": "1.92"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "1.88",
+            "August": "1.87",
+            "September": "3.68",
+            "Total": "7.43"
+        }
+    },
+    "1995": {
+        "Albuquerque": {
+            "June": "0.20",
+            "July": "0.35",
+            "August": "0.74",
+            "September": "2.32",
+            "Total": "3.61"
+        },
+        "El Paso": {
+            "June": "1.74",
+            "July": "0.28",
+            "August": "0.76",
+            "September": "3.18",
+            "Total": "5.96"
+        },
+        "Flagstaff": {
+            "June": "0.06",
+            "July": "0.61",
+            "August": "2.29",
+            "September": "1.58",
+            "Total": "4.54"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.00",
+            "August": "3.50",
+            "September": "1.08",
+            "Total": "4.58"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "0.04",
+            "August": "3.71",
+            "September": "2.29",
+            "Total": "6.04"
+        }
+    },
+    "1994": {
+        "Albuquerque": {
+            "June": "0.28",
+            "July": "0.61",
+            "August": "2.70",
+            "September": "1.21",
+            "Total": "4.80"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "0.18",
+            "August": "0.02",
+            "September": "0.03",
+            "Total": "0.23"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "1.70",
+            "August": "3.61",
+            "September": "2.75",
+            "Total": "8.06"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.25",
+            "August": "0.02",
+            "September": "1.74",
+            "Total": "2.01"
+        },
+        "Tucson": {
+            "June": "0.26",
+            "July": "0.41",
+            "August": "0.45",
+            "September": "1.46",
+            "Total": "2.58"
+        }
+    },
+    "1993": {
+        "Albuquerque": {
+            "June": "0.44",
+            "July": "0.23",
+            "August": "3.05",
+            "September": "0.49",
+            "Total": "4.21"
+        },
+        "El Paso": {
+            "June": "1.47",
+            "July": "0.95",
+            "August": "2.73",
+            "September": "1.32",
+            "Total": "6.47"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "0.00",
+            "August": "4.19",
+            "September": "1.95",
+            "Total": "6.14"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.00",
+            "August": "0.55",
+            "September": "0.06",
+            "Total": "0.61"
+        },
+        "Tucson": {
+            "June": "0.02",
+            "July": "0.26",
+            "August": "4.93",
+            "September": "0.46",
+            "Total": "5.67"
+        }
+    },
+    "1992": {
+        "Albuquerque": {
+            "June": "0.05",
+            "July": "2.01",
+            "August": "2.17",
+            "September": "0.79",
+            "Total": "5.02"
+        },
+        "El Paso": {
+            "June": "0.15",
+            "July": "0.65",
+            "August": "2.11",
+            "September": "0.15",
+            "Total": "3.06"
+        },
+        "Flagstaff": {
+            "June": "0.07",
+            "July": "2.67",
+            "August": "5.80",
+            "September": "0.00",
+            "Total": "8.54"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "2.95",
+            "August": "1.30",
+            "September": "0.03",
+            "Total": "4.28"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "0.93",
+            "August": "4.55",
+            "September": "0.94",
+            "Total": "6.42"
+        }
+    },
+    "1991": {
+        "Albuquerque": {
+            "June": "0.02",
+            "July": "2.63",
+            "August": "1.26",
+            "September": "1.43",
+            "Total": "5.34"
+        },
+        "El Paso": {
+            "June": "0.01",
+            "July": "2.69",
+            "August": "2.06",
+            "September": "1.82",
+            "Total": "6.58"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "1.04",
+            "August": "1.64",
+            "September": "0.26",
+            "Total": "2.94"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.14",
+            "August": "0.12",
+            "September": "0.81",
+            "Total": "1.07"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "0.44",
+            "August": "2.17",
+            "September": "1.54",
+            "Total": "4.15"
+        }
+    },
+    "1990": {
+        "Albuquerque": {
+            "June": "0.03",
+            "July": "2.36",
+            "August": "1.79",
+            "September": "0.96",
+            "Total": "5.14"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "3.96",
+            "August": "1.98",
+            "September": "3.46",
+            "Total": "9.40"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "4.32",
+            "August": "1.71",
+            "September": "6.18",
+            "Total": "12.21"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.05",
+            "August": "2.70",
+            "September": "1.11",
+            "Total": "4.86"
+        },
+        "Tucson": {
+            "June": "0.07",
+            "July": "5.45",
+            "August": "2.70",
+            "September": "1.63",
+            "Total": "9.85"
+        }
+    },
+    "1989": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "1.51",
+            "August": "0.48",
+            "September": "0.31",
+            "Total": "2.30"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "1.23",
+            "August": "3.06",
+            "September": "0.48",
+            "Total": "4.77"
+        },
+        "Flagstaff": {
+            "June": "0.23",
+            "July": "2.28",
+            "August": "3.40",
+            "September": "0.30",
+            "Total": "6.21"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.13",
+            "August": "1.11",
+            "September": "0.47",
+            "Total": "1.71"
+        },
+        "Tucson": {
+            "June": "0.06",
+            "July": "1.42",
+            "August": "0.90",
+            "September": "0.02",
+            "Total": "2.40"
+        }
+    },
+    "1988": {
+        "Albuquerque": {
+            "June": "0.92",
+            "July": "2.26",
+            "August": "3.29",
+            "September": "2.63",
+            "Total": "9.10"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "3.35",
+            "August": "3.46",
+            "September": "1.52",
+            "Total": "8.33"
+        },
+        "Flagstaff": {
+            "June": "1.86",
+            "July": "3.48",
+            "August": "4.77",
+            "September": "0.15",
+            "Total": "10.26"
+        },
+        "Phoenix": {
+            "June": "0.02",
+            "July": "0.87",
+            "August": "0.63",
+            "September": "0.00",
+            "Total": "1.52"
+        },
+        "Tucson": {
+            "June": "0.15",
+            "July": "1.69",
+            "August": "3.64",
+            "September": "0.80",
+            "Total": "6.28"
+        }
+    },
+    "1987": {
+        "Albuquerque": {
+            "June": "0.03",
+            "July": "0.91",
+            "August": "2.98",
+            "September": "0.20",
+            "Total": "4.12"
+        },
+        "El Paso": {
+            "June": "0.72",
+            "July": "0.64",
+            "August": "2.22",
+            "September": "0.89",
+            "Total": "4.47"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "1.93",
+            "August": "3.74",
+            "September": "1.49",
+            "Total": "7.16"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.08",
+            "August": "0.45",
+            "September": "0.57",
+            "Total": "2.10"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "0.37",
+            "August": "2.79",
+            "September": "2.30",
+            "Total": "5.46"
+        }
+    },
+    "1986": {
+        "Albuquerque": {
+            "June": "2.54",
+            "July": "1.51",
+            "August": "2.26",
+            "September": "0.53",
+            "Total": "6.84"
+        },
+        "El Paso": {
+            "June": "3.02",
+            "July": "2.66",
+            "August": "0.70",
+            "September": "0.85",
+            "Total": "7.23"
+        },
+        "Flagstaff": {
+            "June": "0.52",
+            "July": "6.62",
+            "August": "8.06",
+            "September": "4.80",
+            "Total": "20.00"
+        },
+        "Phoenix": {
+            "June": "0.01",
+            "July": "1.19",
+            "August": "1.27",
+            "September": "0.47",
+            "Total": "2.94"
+        },
+        "Tucson": {
+            "June": "0.01",
+            "July": "1.82",
+            "August": "3.56",
+            "September": "0.31",
+            "Total": "5.70"
+        }
+    },
+    "1985": {
+        "Albuquerque": {
+            "June": "0.53",
+            "July": "1.16",
+            "August": "1.49",
+            "September": "1.53",
+            "Total": "4.71"
+        },
+        "El Paso": {
+            "June": "0.10",
+            "July": "1.32",
+            "August": "1.46",
+            "September": "1.47",
+            "Total": "4.35"
+        },
+        "Flagstaff": {
+            "June": "0.06",
+            "July": "2.36",
+            "August": "1.07",
+            "September": "3.68",
+            "Total": "7.17"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.98",
+            "August": "0.21",
+            "September": "1.60",
+            "Total": "2.79"
+        },
+        "Tucson": {
+            "June": "0.02",
+            "July": "3.14",
+            "August": "1.97",
+            "September": "1.13",
+            "Total": "6.26"
+        }
+    },
+    "1984": {
+        "Albuquerque": {
+            "June": "0.41",
+            "July": "1.13",
+            "August": "2.70",
+            "September": "1.13",
+            "Total": "5.37"
+        },
+        "El Paso": {
+            "June": "2.84",
+            "July": "0.69",
+            "August": "5.57",
+            "September": "0.58",
+            "Total": "9.68"
+        },
+        "Flagstaff": {
+            "June": "0.13",
+            "July": "4.20",
+            "August": "3.86",
+            "September": "1.75",
+            "Total": "9.94"
+        },
+        "Phoenix": {
+            "June": "0.18",
+            "July": "5.15",
+            "August": "0.87",
+            "September": "3.36",
+            "Total": "9.56"
+        },
+        "Tucson": {
+            "June": "1.02",
+            "July": "2.92",
+            "August": "4.19",
+            "September": "1.81",
+            "Total": "9.94"
+        }
+    },
+    "1983": {
+        "Albuquerque": {
+            "June": "1.21",
+            "July": "0.55",
+            "August": "0.27",
+            "September": "0.91",
+            "Total": "2.94"
+        },
+        "El Paso": {
+            "June": "0.23",
+            "July": "0.43",
+            "August": "0.97",
+            "September": "1.51",
+            "Total": "3.14"
+        },
+        "Flagstaff": {
+            "June": "0.02",
+            "July": "2.86",
+            "August": "3.53",
+            "September": "6.75",
+            "Total": "13.16"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.38",
+            "August": "2.48",
+            "September": "2.43",
+            "Total": "5.29"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "1.98",
+            "August": "4.24",
+            "September": "4.28",
+            "Total": "10.50"
+        }
+    },
+    "1982": {
+        "Albuquerque": {
+            "June": "0.09",
+            "July": "1.32",
+            "August": "1.09",
+            "September": "1.34",
+            "Total": "3.84"
+        },
+        "El Paso": {
+            "June": "0.18",
+            "July": "1.00",
+            "August": "0.48",
+            "September": "5.28",
+            "Total": "6.94"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "1.89",
+            "August": "2.32",
+            "September": "3.17",
+            "Total": "7.38"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.43",
+            "August": "1.97",
+            "September": "0.12",
+            "Total": "2.52"
+        },
+        "Tucson": {
+            "June": "0.13",
+            "July": "2.13",
+            "August": "2.51",
+            "September": "2.69",
+            "Total": "7.46"
+        }
+    },
+    "1981": {
+        "Albuquerque": {
+            "June": "0.24",
+            "July": "1.07",
+            "August": "1.68",
+            "September": "0.41",
+            "Total": "3.40"
+        },
+        "El Paso": {
+            "June": "0.21",
+            "July": "2.08",
+            "August": "5.26",
+            "September": "0.52",
+            "Total": "8.07"
+        },
+        "Flagstaff": {
+            "June": "0.81",
+            "July": "2.87",
+            "August": "3.73",
+            "September": "2.54",
+            "Total": "9.95"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.14",
+            "August": "0.11",
+            "September": "0.18",
+            "Total": "1.43"
+        },
+        "Tucson": {
+            "June": "0.16",
+            "July": "6.17",
+            "August": "0.80",
+            "September": "1.10",
+            "Total": "8.23"
+        }
+    },
+    "1980": {
+        "Albuquerque": {
+            "June": "0.01",
+            "July": "0.08",
+            "August": "2.61",
+            "September": "1.83",
+            "Total": "4.53"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "0.21",
+            "August": "1.76",
+            "September": "1.90",
+            "Total": "3.87"
+        },
+        "Flagstaff": {
+            "June": "0.25",
+            "July": "2.49",
+            "August": "2.19",
+            "September": "0.65",
+            "Total": "5.58"
+        },
+        "Phoenix": {
+            "June": "0.03",
+            "July": "0.56",
+            "August": "0.06",
+            "September": "0.13",
+            "Total": "0.78"
+        },
+        "Tucson": {
+            "June": "0.23",
+            "July": "1.78",
+            "August": "1.95",
+            "September": "2.93",
+            "Total": "6.89"
+        }
+    },
+    "1979": {
+        "Albuquerque": {
+            "June": "0.04",
+            "July": "0.80",
+            "August": "1.53",
+            "September": "0.40",
+            "Total": "2.77"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "0.98",
+            "August": "2.16",
+            "September": "0.41",
+            "Total": "3.55"
+        },
+        "Flagstaff": {
+            "June": "0.03",
+            "July": "0.79",
+            "August": "2.38",
+            "September": "0.13",
+            "Total": "3.33"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.34",
+            "August": "1.18",
+            "September": "0.09",
+            "Total": "1.61"
+        },
+        "Tucson": {
+            "June": "0.03",
+            "July": "2.04",
+            "August": "2.60",
+            "September": "0.02",
+            "Total": "4.69"
+        }
+    },
+    "1978": {
+        "Albuquerque": {
+            "June": "0.01",
+            "July": "0.24",
+            "August": "2.49",
+            "September": "0.59",
+            "Total": "3.33"
+        },
+        "El Paso": {
+            "June": "1.46",
+            "July": "0.04",
+            "August": "2.18",
+            "September": "4.14",
+            "Total": "7.82"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "1.17",
+            "August": "0.68",
+            "September": "0.46",
+            "Total": "2.31"
+        },
+        "Phoenix": {
+            "June": "0.01",
+            "July": "1.44",
+            "August": "1.79",
+            "September": "0.00",
+            "Total": "3.24"
+        },
+        "Tucson": {
+            "June": "0.22",
+            "July": "0.78",
+            "August": "1.59",
+            "September": "1.66",
+            "Total": "4.25"
+        }
+    },
+    "1977": {
+        "Albuquerque": {
+            "June": "0.04",
+            "July": "0.69",
+            "August": "2.28",
+            "September": "0.78",
+            "Total": "3.79"
+        },
+        "El Paso": {
+            "June": "0.02",
+            "July": "1.09",
+            "August": "1.36",
+            "September": "0.16",
+            "Total": "2.63"
+        },
+        "Flagstaff": {
+            "June": "0.43",
+            "July": "3.60",
+            "August": "3.72",
+            "September": "1.52",
+            "Total": "9.27"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.30",
+            "August": "0.18",
+            "September": "0.53",
+            "Total": "1.01"
+        },
+        "Tucson": {
+            "June": "0.06",
+            "July": "0.76",
+            "August": "0.80",
+            "September": "1.41",
+            "Total": "3.03"
+        }
+    },
+    "1976": {
+        "Albuquerque": {
+            "June": "0.60",
+            "July": "1.32",
+            "August": "0.73",
+            "September": "0.45",
+            "Total": "3.10"
+        },
+        "El Paso": {
+            "June": "0.03",
+            "July": "3.17",
+            "August": "0.23",
+            "September": "1.70",
+            "Total": "5.13"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "3.82",
+            "August": "0.58",
+            "September": "1.16",
+            "Total": "5.56"
+        },
+        "Phoenix": {
+            "June": "0.09",
+            "July": "1.48",
+            "August": "0.12",
+            "September": "1.69",
+            "Total": "3.38"
+        },
+        "Tucson": {
+            "June": "0.10",
+            "July": "1.18",
+            "August": "0.23",
+            "September": "1.68",
+            "Total": "3.19"
+        }
+    },
+    "1975": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "1.43",
+            "August": "1.40",
+            "September": "1.66",
+            "Total": "4.49"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "1.11",
+            "August": "0.45",
+            "September": "2.18",
+            "Total": "3.74"
+        },
+        "Flagstaff": {
+            "June": "0.05",
+            "July": "2.24",
+            "August": "0.74",
+            "September": "1.89",
+            "Total": "4.92"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.38",
+            "August": "0.00",
+            "September": "0.82",
+            "Total": "1.20"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "2.38",
+            "August": "0.32",
+            "September": "1.26",
+            "Total": "3.96"
+        }
+    },
+    "1974": {
+        "Albuquerque": {
+            "June": "0.22",
+            "July": "2.40",
+            "August": "0.79",
+            "September": "1.58",
+            "Total": "4.99"
+        },
+        "El Paso": {
+            "June": "0.36",
+            "July": "2.21",
+            "August": "0.63",
+            "September": "6.68",
+            "Total": "9.88"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "3.00",
+            "August": "2.16",
+            "September": "0.93",
+            "Total": "6.09"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.84",
+            "August": "1.15",
+            "September": "1.07",
+            "Total": "3.06"
+        },
+        "Tucson": {
+            "June": "0.01",
+            "July": "4.44",
+            "August": "1.04",
+            "September": "1.69",
+            "Total": "7.18"
+        }
+    },
+    "1973": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "1.80",
+            "August": "1.19",
+            "September": "1.13",
+            "Total": "4.12"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "2.12",
+            "August": "0.73",
+            "September": "0.01",
+            "Total": "2.86"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "1.87",
+            "August": "1.25",
+            "September": "0.00",
+            "Total": "3.12"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.30",
+            "August": "0.00",
+            "September": "0.00",
+            "Total": "1.30"
+        },
+        "Tucson": {
+            "June": "0.05",
+            "July": "1.74",
+            "August": "0.54",
+            "September": "0.00",
+            "Total": "2.33"
+        }
+    },
+    "1972": {
+        "Albuquerque": {
+            "June": "0.32",
+            "July": "1.00",
+            "August": "2.93",
+            "September": "1.00",
+            "Total": "5.25"
+        },
+        "El Paso": {
+            "June": "0.21",
+            "July": "0.71",
+            "August": "2.59",
+            "September": "1.60",
+            "Total": "5.11"
+        },
+        "Flagstaff": {
+            "June": "0.67",
+            "July": "1.90",
+            "August": "2.82",
+            "September": "0.81",
+            "Total": "6.20"
+        },
+        "Phoenix": {
+            "June": "1.64",
+            "July": "0.72",
+            "August": "1.20",
+            "September": "0.28",
+            "Total": "3.84"
+        },
+        "Tucson": {
+            "June": "0.50",
+            "July": "3.49",
+            "August": "2.93",
+            "September": "1.09",
+            "Total": "8.01"
+        }
+    },
+    "1971": {
+        "Albuquerque": {
+            "June": "0.02",
+            "July": "1.05",
+            "August": "0.87",
+            "September": "1.44",
+            "Total": "3.38"
+        },
+        "El Paso": {
+            "June": "0.01",
+            "July": "2.34",
+            "August": "1.59",
+            "September": "0.96",
+            "Total": "4.90"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "1.97",
+            "August": "4.48",
+            "September": "2.02",
+            "Total": "8.47"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.24",
+            "August": "0.99",
+            "September": "0.92",
+            "Total": "2.15"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "2.18",
+            "August": "3.29",
+            "September": "1.75",
+            "Total": "7.22"
+        }
+    },
+    "1970": {
+        "Albuquerque": {
+            "June": "0.10",
+            "July": "1.22",
+            "August": "2.24",
+            "September": "0.79",
+            "Total": "4.35"
+        },
+        "El Paso": {
+            "June": "0.14",
+            "July": "1.41",
+            "August": "0.41",
+            "September": "1.01",
+            "Total": "2.97"
+        },
+        "Flagstaff": {
+            "June": "0.04",
+            "July": "2.58",
+            "August": "5.15",
+            "September": "3.79",
+            "Total": "11.56"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.48",
+            "August": "1.02",
+            "September": "2.85",
+            "Total": "4.35"
+        },
+        "Tucson": {
+            "June": "0.33",
+            "July": "2.53",
+            "August": "1.43",
+            "September": "3.58",
+            "Total": "7.87"
+        }
+    },
+    "1969": {
+        "Albuquerque": {
+            "June": "0.58",
+            "July": "0.94",
+            "August": "0.95",
+            "September": "1.08",
+            "Total": "3.55"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "1.14",
+            "August": "0.28",
+            "September": "0.43",
+            "Total": "1.85"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "3.81",
+            "August": "1.90",
+            "September": "1.34",
+            "Total": "7.05"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.28",
+            "August": "0.14",
+            "September": "2.11",
+            "Total": "2.53"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "1.51",
+            "August": "2.57",
+            "September": "1.31",
+            "Total": "5.39"
+        }
+    },
+    "1968": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "3.33",
+            "August": "1.49",
+            "September": "0.30",
+            "Total": "5.12"
+        },
+        "El Paso": {
+            "June": "0.03",
+            "July": "5.53",
+            "August": "1.71",
+            "September": "0.53",
+            "Total": "7.80"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "3.61",
+            "August": "1.13",
+            "September": "0.04",
+            "Total": "4.78"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.70",
+            "August": "0.59",
+            "September": "0.00",
+            "Total": "2.29"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "1.97",
+            "August": "1.12",
+            "September": "0.00",
+            "Total": "3.09"
+        }
+    },
+    "1967": {
+        "Albuquerque": {
+            "June": "0.94",
+            "July": "0.61",
+            "August": "3.30",
+            "September": "0.79",
+            "Total": "5.64"
+        },
+        "El Paso": {
+            "June": "1.34",
+            "July": "0.84",
+            "August": "0.54",
+            "September": "1.54",
+            "Total": "4.26"
+        },
+        "Flagstaff": {
+            "June": "0.90",
+            "July": "3.80",
+            "August": "2.68",
+            "September": "2.25",
+            "Total": "9.63"
+        },
+        "Phoenix": {
+            "June": "0.44",
+            "July": "0.99",
+            "August": "0.02",
+            "September": "0.13",
+            "Total": "1.58"
+        },
+        "Tucson": {
+            "June": "0.36",
+            "July": "2.72",
+            "August": "2.00",
+            "September": "1.35",
+            "Total": "6.43"
+        }
+    },
+    "1966": {
+        "Albuquerque": {
+            "June": "1.62",
+            "July": "1.63",
+            "August": "1.06",
+            "September": "1.04",
+            "Total": "5.35"
+        },
+        "El Paso": {
+            "June": "2.67",
+            "July": "1.17",
+            "August": "1.85",
+            "September": "1.79",
+            "Total": "7.48"
+        },
+        "Flagstaff": {
+            "June": "0.21",
+            "July": "1.62",
+            "August": "3.55",
+            "September": "2.03",
+            "Total": "7.41"
+        },
+        "Phoenix": {
+            "June": "0.22",
+            "July": "0.09",
+            "August": "2.17",
+            "September": "2.00",
+            "Total": "4.48"
+        },
+        "Tucson": {
+            "June": "0.02",
+            "July": "2.57",
+            "August": "3.31",
+            "September": "3.53",
+            "Total": "9.43"
+        }
+    },
+    "1965": {
+        "Albuquerque": {
+            "June": "0.51",
+            "July": "1.65",
+            "August": "0.61",
+            "September": "1.18",
+            "Total": "3.95"
+        },
+        "El Paso": {
+            "June": "0.19",
+            "July": "0.17",
+            "August": "0.49",
+            "September": "2.12",
+            "Total": "2.97"
+        },
+        "Flagstaff": {
+            "June": "0.15",
+            "July": "2.34",
+            "August": "1.01",
+            "September": "4.85",
+            "Total": "8.35"
+        },
+        "Phoenix": {
+            "June": "0.91",
+            "July": "0.16",
+            "August": "0.18",
+            "September": "0.60",
+            "Total": "1.85"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "2.13",
+            "August": "1.12",
+            "September": "0.82",
+            "Total": "4.07"
+        }
+    },
+    "1964": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "1.87",
+            "August": "0.98",
+            "September": "1.57",
+            "Total": "4.42"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "0.18",
+            "August": "0.76",
+            "September": "2.40",
+            "Total": "3.34"
+        },
+        "Flagstaff": {
+            "June": "0.17",
+            "July": "5.23",
+            "August": "1.32",
+            "September": "0.99",
+            "Total": "7.71"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.60",
+            "August": "1.29",
+            "September": "1.80",
+            "Total": "3.69"
+        },
+        "Tucson": {
+            "June": "0.01",
+            "July": "4.82",
+            "August": "3.90",
+            "September": "5.11",
+            "Total": "13.84"
+        }
+    },
+    "1963": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "1.43",
+            "August": "3.00",
+            "September": "0.63",
+            "Total": "5.06"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "0.52",
+            "August": "1.03",
+            "September": "0.64",
+            "Total": "2.19"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "0.32",
+            "August": "4.96",
+            "September": "0.79",
+            "Total": "6.07"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.03",
+            "August": "2.68",
+            "September": "0.00",
+            "Total": "2.71"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "1.66",
+            "August": "2.86",
+            "September": "1.45",
+            "Total": "5.97"
+        }
+    },
+    "1962": {
+        "Albuquerque": {
+            "June": "0.19",
+            "July": "1.24",
+            "August": "0.00",
+            "September": "0.71",
+            "Total": "2.14"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "1.82",
+            "August": "0.00",
+            "September": "3.54",
+            "Total": "5.36"
+        },
+        "Flagstaff": {
+            "June": "0.52",
+            "July": "2.36",
+            "August": "0.26",
+            "September": "2.48",
+            "Total": "5.62"
+        },
+        "Phoenix": {
+            "June": "0.12",
+            "July": "0.10",
+            "August": "0.25",
+            "September": "0.39",
+            "Total": "0.86"
+        },
+        "Tucson": {
+            "June": "0.25",
+            "July": "1.38",
+            "August": "0.48",
+            "September": "2.86",
+            "Total": "4.97"
+        }
+    },
+    "1961": {
+        "Albuquerque": {
+            "June": "0.11",
+            "July": "2.70",
+            "August": "1.69",
+            "September": "1.09",
+            "Total": "5.59"
+        },
+        "El Paso": {
+            "June": "0.12",
+            "July": "2.18",
+            "August": "1.40",
+            "September": "0.69",
+            "Total": "4.39"
+        },
+        "Flagstaff": {
+            "June": "0.37",
+            "July": "2.03",
+            "August": "3.37",
+            "September": "1.92",
+            "Total": "7.69"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.40",
+            "August": "2.11",
+            "September": "0.22",
+            "Total": "2.73"
+        },
+        "Tucson": {
+            "June": "0.26",
+            "July": "1.81",
+            "August": "4.28",
+            "September": "0.51",
+            "Total": "6.86"
+        }
+    },
+    "1960": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "0.47",
+            "August": "0.78",
+            "September": "0.56",
+            "Total": "1.81"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "3.61",
+            "August": "0.77",
+            "September": "0.01",
+            "Total": "4.39"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "0.96",
+            "August": "3.28",
+            "September": "1.18",
+            "Total": "5.42"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.25",
+            "August": "0.82",
+            "September": "0.12",
+            "Total": "1.19"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "0.73",
+            "August": "2.09",
+            "September": "1.20",
+            "Total": "4.02"
+        }
+    },
+    "1959": {
+        "Albuquerque": {
+            "June": "0.74",
+            "July": "0.73",
+            "August": "2.79",
+            "September": "0.36",
+            "Total": "4.62"
+        },
+        "El Paso": {
+            "June": "0.46",
+            "July": "0.40",
+            "August": "2.39",
+            "September": "0.00",
+            "Total": "3.25"
+        },
+        "Flagstaff": {
+            "June": "0.69",
+            "July": "2.93",
+            "August": "4.96",
+            "September": "0.28",
+            "Total": "8.86"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.45",
+            "August": "1.36",
+            "September": "0.04",
+            "Total": "1.85"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "3.92",
+            "August": "2.79",
+            "September": "0.00",
+            "Total": "6.71"
+        }
+    },
+    "1958": {
+        "Albuquerque": {
+            "June": "0.03",
+            "July": "0.14",
+            "August": "1.74",
+            "September": "1.34",
+            "Total": "3.25"
+        },
+        "El Paso": {
+            "June": "1.29",
+            "July": "1.36",
+            "August": "1.14",
+            "September": "6.29",
+            "Total": "10.08"
+        },
+        "Flagstaff": {
+            "June": "0.70",
+            "July": "0.75",
+            "August": "3.02",
+            "September": "6.60",
+            "Total": "11.07"
+        },
+        "Phoenix": {
+            "June": "0.05",
+            "July": "0.31",
+            "August": "0.72",
+            "September": "2.25",
+            "Total": "3.33"
+        },
+        "Tucson": {
+            "June": "0.51",
+            "July": "5.20",
+            "August": "0.91",
+            "September": "0.21",
+            "Total": "6.83"
+        }
+    },
+    "1957": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "2.48",
+            "August": "1.32",
+            "September": "0.00",
+            "Total": "3.80"
+        },
+        "El Paso": {
+            "June": "0.01",
+            "July": "2.64",
+            "August": "4.11",
+            "September": "0.11",
+            "Total": "6.87"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "1.57",
+            "August": "1.65",
+            "September": "0.00",
+            "Total": "3.22"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.72",
+            "August": "0.85",
+            "September": "0.00",
+            "Total": "1.57"
+        },
+        "Tucson": {
+            "June": "0.09",
+            "July": "1.25",
+            "August": "3.92",
+            "September": "0.00",
+            "Total": "5.26"
+        }
+    },
+    "1956": {
+        "Albuquerque": {
+            "June": "0.15",
+            "July": "1.49",
+            "August": "0.62",
+            "September": "0.02",
+            "Total": "2.28"
+        },
+        "El Paso": {
+            "June": "0.95",
+            "July": "1.10",
+            "August": "0.61",
+            "September": "0.43",
+            "Total": "3.09"
+        },
+        "Flagstaff": {
+            "June": "2.79",
+            "July": "1.19",
+            "August": "1.42",
+            "September": "0.02",
+            "Total": "5.42"
+        },
+        "Phoenix": {
+            "June": "0.01",
+            "July": "0.92",
+            "August": "0.46",
+            "September": "0.02",
+            "Total": "1.41"
+        },
+        "Tucson": {
+            "June": "0.36",
+            "July": "2.77",
+            "August": "1.12",
+            "September": "0.37",
+            "Total": "4.62"
+        }
+    },
+    "1955": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "1.60",
+            "August": "1.32",
+            "September": "1.94",
+            "Total": "4.86"
+        },
+        "El Paso": {
+            "June": "0.02",
+            "July": "3.70",
+            "August": "0.70",
+            "September": "0.16",
+            "Total": "4.58"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "3.49",
+            "August": "3.73",
+            "September": "0.00",
+            "Total": "7.22"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "4.19",
+            "August": "1.80",
+            "September": "0.00",
+            "Total": "5.99"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "5.10",
+            "August": "7.93",
+            "September": "0.05",
+            "Total": "13.08"
+        }
+    },
+    "1954": {
+        "Albuquerque": {
+            "June": "0.01",
+            "July": "1.45",
+            "August": "0.65",
+            "September": "0.77",
+            "Total": "2.88"
+        },
+        "El Paso": {
+            "June": "0.12",
+            "July": "0.88",
+            "August": "2.37",
+            "September": "0.95",
+            "Total": "4.32"
+        },
+        "Flagstaff": {
+            "June": "1.17",
+            "July": "3.51",
+            "August": "1.53",
+            "September": "3.14",
+            "Total": "9.35"
+        },
+        "Phoenix": {
+            "June": "0.02",
+            "July": "0.36",
+            "August": "0.55",
+            "September": "0.44",
+            "Total": "1.37"
+        },
+        "Tucson": {
+            "June": "1.46",
+            "July": "2.03",
+            "August": "2.00",
+            "September": "3.05",
+            "Total": "8.54"
+        }
+    },
+    "1953": {
+        "Albuquerque": {
+            "June": "0.35",
+            "July": "0.53",
+            "August": "0.59",
+            "September": "0.06",
+            "Total": "1.53"
+        },
+        "El Paso": {
+            "June": "0.25",
+            "July": "0.99",
+            "August": "0.42",
+            "September": "0.00",
+            "Total": "1.66"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "2.50",
+            "August": "4.21",
+            "September": "0.12",
+            "Total": "6.83"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.74",
+            "August": "0.53",
+            "September": "0.00",
+            "Total": "1.27"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "2.87",
+            "August": "0.46",
+            "September": "0.00",
+            "Total": "3.33"
+        }
+    },
+    "1952": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "1.91",
+            "August": "1.10",
+            "September": "0.34",
+            "Total": "3.35"
+        },
+        "El Paso": {
+            "June": "0.46",
+            "July": "1.88",
+            "August": "1.06",
+            "September": "0.07",
+            "Total": "3.47"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "2.10",
+            "August": "2.92",
+            "September": "2.09",
+            "Total": "7.11"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.46",
+            "August": "1.41",
+            "September": "0.06",
+            "Total": "2.93"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "3.25",
+            "August": "1.56",
+            "September": "0.80",
+            "Total": "5.61"
+        }
+    },
+    "1951": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "0.85",
+            "August": "2.22",
+            "September": "0.05",
+            "Total": "3.12"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "2.48",
+            "August": "0.72",
+            "September": "0.04",
+            "Total": "3.24"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "4.47",
+            "August": "5.50",
+            "September": "0.60",
+            "Total": "10.57"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.30",
+            "August": "5.33",
+            "September": "0.33",
+            "Total": "6.96"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "1.49",
+            "August": "2.66",
+            "September": "0.34",
+            "Total": "4.49"
+        }
+    },
+    "1950": {
+        "Albuquerque": {
+            "June": "0.03",
+            "July": "2.00",
+            "August": "0.08",
+            "September": "1.01",
+            "Total": "3.12"
+        },
+        "El Paso": {
+            "June": "0.11",
+            "July": "3.57",
+            "August": "0.16",
+            "September": "1.32",
+            "Total": "5.16"
+        },
+        "Flagstaff": {
+            "June": "0.31",
+            "July": "3.42",
+            "August": "1.47",
+            "September": "0.89",
+            "Total": "6.09"
+        },
+        "Phoenix": {
+            "June": "0.10",
+            "July": "0.93",
+            "August": "0.45",
+            "September": "0.87",
+            "Total": "2.35"
+        },
+        "Tucson": {
+            "June": "1.24",
+            "July": "3.72",
+            "August": "0.86",
+            "September": "1.15",
+            "Total": "6.97"
+        }
+    },
+    "1949": {
+        "Albuquerque": {
+            "June": "0.25",
+            "July": "2.21",
+            "August": "0.72",
+            "September": "0.87",
+            "Total": "4.05"
+        },
+        "El Paso": {
+            "June": "0.27",
+            "July": "1.18",
+            "August": "0.43",
+            "September": "1.74",
+            "Total": "3.62"
+        },
+        "Flagstaff": {
+            "June": "1.02",
+            "July": "2.74",
+            "August": "1.26",
+            "September": "3.47",
+            "Total": "8.49"
+        },
+        "Phoenix": {
+            "June": "0.14",
+            "July": "0.36",
+            "August": "0.41",
+            "September": "0.89",
+            "Total": "1.80"
+        },
+        "Tucson": {
+            "June": "0.02",
+            "July": "1.42",
+            "August": "1.92",
+            "September": "0.81",
+            "Total": "4.17"
+        }
+    },
+    "1948": {
+        "Albuquerque": {
+            "June": "0.11",
+            "July": "0.46",
+            "August": "0.51",
+            "September": "0.80",
+            "Total": "1.88"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "0.82",
+            "August": "1.82",
+            "September": "0.03",
+            "Total": "2.67"
+        },
+        "Flagstaff": {
+            "June": "0.10",
+            "July": "0.73",
+            "August": "2.10",
+            "September": "1.05",
+            "Total": "3.98"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.79",
+            "August": "0.25",
+            "September": "0.00",
+            "Total": "1.04"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "3.02",
+            "August": "1.08",
+            "September": "1.11",
+            "Total": "5.21"
+        }
+    },
+    "1947": {
+        "Albuquerque": {
+            "June": "0.23",
+            "July": "0.38",
+            "August": "1.45",
+            "September": "0.67",
+            "Total": "2.73"
+        },
+        "El Paso": {
+            "June": "0.53",
+            "July": "0.97",
+            "August": "1.63",
+            "September": "0.02",
+            "Total": "3.15"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "1.21",
+            "August": "4.25",
+            "September": "0.64",
+            "Total": "6.10"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.13",
+            "August": "1.21",
+            "September": "0.39",
+            "Total": "1.73"
+        },
+        "Tucson": {
+            "June": "0.05",
+            "July": "0.27",
+            "August": "2.24",
+            "September": "0.47",
+            "Total": "3.03"
+        }
+    },
+    "1946": {
+        "Albuquerque": {
+            "June": "0.07",
+            "July": "2.28",
+            "August": "1.49",
+            "September": "0.57",
+            "Total": "4.41"
+        },
+        "El Paso": {
+            "June": "0.18",
+            "July": "0.71",
+            "August": "1.19",
+            "September": "1.51",
+            "Total": "3.59"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "4.78",
+            "August": "3.46",
+            "September": "1.53",
+            "Total": "9.77"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "2.56",
+            "August": "2.01",
+            "September": "2.88",
+            "Total": "7.45"
+        },
+        "Tucson": {
+            "June": "0.04",
+            "July": "2.44",
+            "August": "3.61",
+            "September": "2.26",
+            "Total": "8.35"
+        }
+    },
+    "1945": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "1.09",
+            "August": "2.27",
+            "September": "0.26",
+            "Total": "3.62"
+        },
+        "El Paso": {
+            "June": "0.03",
+            "July": "0.47",
+            "August": "0.84",
+            "September": "0.12",
+            "Total": "1.46"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "4.14",
+            "August": "2.91",
+            "September": "0.18",
+            "Total": "7.23"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.93",
+            "August": "0.41",
+            "September": "0.00",
+            "Total": "1.34"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "2.84",
+            "August": "4.31",
+            "September": "0.14",
+            "Total": "7.29"
+        }
+    },
+    "1944": {
+        "Albuquerque": {
+            "June": "0.79",
+            "July": "1.58",
+            "August": "1.44",
+            "September": "0.65",
+            "Total": "4.46"
+        },
+        "El Paso": {
+            "June": "1.44",
+            "July": "1.52",
+            "August": "1.04",
+            "September": "0.25",
+            "Total": "4.25"
+        },
+        "Flagstaff": {
+            "June": "0.10",
+            "July": "1.74",
+            "August": "0.67",
+            "September": "1.33",
+            "Total": "3.84"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.70",
+            "August": "0.09",
+            "September": "0.07",
+            "Total": "0.86"
+        },
+        "Tucson": {
+            "June": "0.04",
+            "July": "1.77",
+            "August": "1.78",
+            "September": "2.08",
+            "Total": "5.67"
+        }
+    },
+    "1943": {
+        "Albuquerque": {
+            "June": "0.83",
+            "July": "1.19",
+            "August": "1.33",
+            "September": "0.39",
+            "Total": "3.74"
+        },
+        "El Paso": {
+            "June": "1.59",
+            "July": "0.92",
+            "August": "0.44",
+            "September": "1.36",
+            "Total": "4.31"
+        },
+        "Flagstaff": {
+            "June": "0.02",
+            "July": "1.72",
+            "August": "2.14",
+            "September": "1.67",
+            "Total": "5.55"
+        },
+        "Phoenix": {
+            "June": "0.01",
+            "July": "0.25",
+            "August": "4.92",
+            "September": "0.97",
+            "Total": "6.15"
+        },
+        "Tucson": {
+            "June": "0.05",
+            "July": "1.09",
+            "August": "3.04",
+            "September": "3.59",
+            "Total": "7.77"
+        }
+    },
+    "1942": {
+        "Albuquerque": {
+            "June": "0.16",
+            "July": "0.20",
+            "August": "1.42",
+            "September": "1.553",
+            "Total": "3.33"
+        },
+        "El Paso": {
+            "June": "0.51",
+            "July": "0.68",
+            "August": "3.82",
+            "September": "1.03",
+            "Total": "6.04"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "1.07",
+            "August": "2.08",
+            "September": "0.65",
+            "Total": "3.80"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.24",
+            "August": "1.10",
+            "September": "0.21",
+            "Total": "2.55"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "0.68",
+            "August": "0.90",
+            "September": "1.78",
+            "Total": "3.36"
+        }
+    },
+    "1941": {
+        "Albuquerque": {
+            "June": "0.37",
+            "July": "2.15",
+            "August": "1.07",
+            "September": "1.85",
+            "Total": "5.44"
+        },
+        "El Paso": {
+            "June": "0.17",
+            "July": "1.40",
+            "August": "2.13",
+            "September": "4.19",
+            "Total": "7.89"
+        },
+        "Flagstaff": {
+            "June": "0.12",
+            "July": "1.71",
+            "August": "1.31",
+            "September": "4.54",
+            "Total": "7.68"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.39",
+            "August": "0.85",
+            "September": "1.79",
+            "Total": "4.03"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "2.51",
+            "August": "1.99",
+            "September": "1.20",
+            "Total": "5.70"
+        }
+    },
+    "1940": {
+        "Albuquerque": {
+            "June": "1.32",
+            "July": "0.62",
+            "August": "3.25",
+            "September": "1.99",
+            "Total": "7.18"
+        },
+        "El Paso": {
+            "June": "1.82",
+            "July": "1.06",
+            "August": "0.78",
+            "September": "0.25",
+            "Total": "3.91"
+        },
+        "Flagstaff": {
+            "June": "1.18",
+            "July": "0.52",
+            "August": "2.26",
+            "September": "3.63",
+            "Total": "7.59"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.66",
+            "August": "0.48",
+            "September": "1.43",
+            "Total": "2.57"
+        },
+        "Tucson": {
+            "June": "1.14",
+            "July": "0.84",
+            "August": "2.84",
+            "September": "2.72",
+            "Total": "7.54"
+        }
+    },
+    "1939": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "2.33",
+            "August": "0.54",
+            "September": "1.19",
+            "Total": "4.06"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "0.60",
+            "August": "0.91",
+            "September": "0.90",
+            "Total": "2.41"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "0.90",
+            "August": "2.45",
+            "September": "3.47",
+            "Total": "6.82"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.71",
+            "August": "1.18",
+            "September": "5.41",
+            "Total": "7.30"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "0.61",
+            "August": "1.24",
+            "September": "1.53",
+            "Total": "3.38"
+        }
+    },
+    "1938": {
+        "Albuquerque": {
+            "June": "1.30",
+            "July": "1.45",
+            "August": "0.17",
+            "September": "2.36",
+            "Total": "5.28"
+        },
+        "El Paso": {
+            "June": "2.79",
+            "July": "0.60",
+            "August": "0.20",
+            "September": "2.31",
+            "Total": "5.90"
+        },
+        "Flagstaff": {
+            "June": "0.87",
+            "July": "2.11",
+            "August": "2.87",
+            "September": "0.97",
+            "Total": "6.82"
+        },
+        "Phoenix": {
+            "June": "0.28",
+            "July": "0.25",
+            "August": "0.97",
+            "September": "0.00",
+            "Total": "1.50"
+        },
+        "Tucson": {
+            "June": "2.07",
+            "July": "0.78",
+            "August": "2.37",
+            "September": "0.50",
+            "Total": "5.72"
+        }
+    },
+    "1937": {
+        "Albuquerque": {
+            "June": "1.88",
+            "July": "1.02",
+            "August": "0.22",
+            "September": "0.87",
+            "Total": "3.99"
+        },
+        "El Paso": {
+            "June": "1.05",
+            "July": "0.39",
+            "August": "0.36",
+            "September": "0.48",
+            "Total": "2.28"
+        },
+        "Flagstaff": {
+            "June": "0.88",
+            "July": "2.69",
+            "August": "2.51",
+            "September": "1.83",
+            "Total": "7.91"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.49",
+            "August": "0.05",
+            "September": "1.17",
+            "Total": "1.71"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "2.06",
+            "August": "1.29",
+            "September": "1.43",
+            "Total": "4.78"
+        }
+    },
+    "1936": {
+        "Albuquerque": {
+            "June": "0.12",
+            "July": "0.67",
+            "August": "1.62",
+            "September": "2.05",
+            "Total": "4.46"
+        },
+        "El Paso": {
+            "June": "0.33",
+            "July": "0.68",
+            "August": "1.94",
+            "September": "3.52",
+            "Total": "6.47"
+        },
+        "Flagstaff": {
+            "June": "0.26",
+            "July": "4.36",
+            "August": "2.70",
+            "September": "1.41",
+            "Total": "8.73"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "2.49",
+            "August": "0.32",
+            "September": "0.43",
+            "Total": "3.24"
+        },
+        "Tucson": {
+            "June": "0.06",
+            "July": "2.82",
+            "August": "3.03",
+            "September": "1.51",
+            "Total": "7.42"
+        }
+    },
+    "1935": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "0.19",
+            "August": "3.74",
+            "September": "1.19",
+            "Total": "5.12"
+        },
+        "El Paso": {
+            "June": "0.05",
+            "July": "0.16",
+            "August": "1.72",
+            "September": "1.24",
+            "Total": "3.17"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "0.99",
+            "August": "4.01",
+            "September": "1.01",
+            "Total": "6.01"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.93",
+            "August": "1.27",
+            "September": "1.30",
+            "Total": "3.50"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "0.87",
+            "August": "5.61",
+            "September": "0.88",
+            "Total": "7.36"
+        }
+    },
+    "1934": {
+        "Albuquerque": {
+            "June": "0.29",
+            "July": "0.61",
+            "August": "2.10",
+            "September": "1.08",
+            "Total": "4.08"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "0.19",
+            "August": "0.60",
+            "September": "0.17",
+            "Total": "0.96"
+        },
+        "Flagstaff": {
+            "June": "0.11",
+            "July": "1.77",
+            "August": "4.56",
+            "September": "0.26",
+            "Total": "6.70"
+        },
+        "Phoenix": {
+            "June": "0.03",
+            "July": "0.11",
+            "August": "1.07",
+            "September": "0.66",
+            "Total": "1.87"
+        },
+        "Tucson": {
+            "June": "0.14",
+            "July": "1.16",
+            "August": "2.41",
+            "September": "1.07",
+            "Total": "4.78"
+        }
+    },
+    "1933": {
+        "Albuquerque": {
+            "June": "3.25",
+            "July": "2.04",
+            "August": "2.42",
+            "September": "1.12",
+            "Total": "8.83"
+        },
+        "El Paso": {
+            "June": "1.53",
+            "July": "1.34",
+            "August": "0.27",
+            "September": "0.99",
+            "Total": "4.13"
+        },
+        "Flagstaff": {
+            "June": "0.95",
+            "July": "3.12",
+            "August": "1.90",
+            "September": "1.12",
+            "Total": "7.09"
+        },
+        "Phoenix": {
+            "June": "0.21",
+            "July": "0.30",
+            "August": "0.38",
+            "September": "1.62",
+            "Total": "2.51"
+        },
+        "Tucson": {
+            "June": "0.10",
+            "July": "1.60",
+            "August": "2.23",
+            "September": "1.62",
+            "Total": "5.55"
+        }
+    },
+    "1932": {
+        "Albuquerque": {
+            "June": "0.09",
+            "July": "2.01",
+            "August": "2.20",
+            "September": "0.78",
+            "Total": "5.08"
+        },
+        "El Paso": {
+            "June": "0.15",
+            "July": "2.28",
+            "August": "2.14",
+            "September": "2.85",
+            "Total": "7.42"
+        },
+        "Flagstaff": {
+            "June": "0.28",
+            "July": "2.37",
+            "August": "4.13",
+            "September": "1.53",
+            "Total": "8.31"
+        },
+        "Phoenix": {
+            "June": "0.06",
+            "July": "0.11",
+            "August": "0.10",
+            "September": "0.34",
+            "Total": "0.61"
+        },
+        "Tucson": {
+            "June": "0.13",
+            "July": "2.58",
+            "August": "1.61",
+            "September": "0.23",
+            "Total": "4.55"
+        }
+    },
+    "1931": {
+        "Albuquerque": {
+            "June": "0.44",
+            "July": "0.69",
+            "August": "0.23",
+            "September": "2.18",
+            "Total": "3.54"
+        },
+        "El Paso": {
+            "June": "0.13",
+            "July": "0.73",
+            "August": "2.14",
+            "September": "1.10",
+            "Total": "4.10"
+        },
+        "Flagstaff": {
+            "June": "0.67",
+            "July": "2.71",
+            "August": "3.56",
+            "September": "2.08",
+            "Total": "9.02"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.02",
+            "August": "1.70",
+            "September": "0.23",
+            "Total": "1.95"
+        },
+        "Tucson": {
+            "June": "0.48",
+            "July": "1.07",
+            "August": "3.96",
+            "September": "0.94",
+            "Total": "6.45"
+        }
+    },
+    "1930": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "4.45",
+            "August": "1.09",
+            "September": "0.36",
+            "Total": "5.90"
+        },
+        "El Paso": {
+            "June": "0.03",
+            "July": "1.33",
+            "August": "1.29",
+            "September": "0.04",
+            "Total": "2.69"
+        },
+        "Flagstaff": {
+            "June": "0.18",
+            "July": "6.06",
+            "August": "1.90",
+            "September": "2.06",
+            "Total": "10.20"
+        },
+        "Phoenix": {
+            "June": "0.16",
+            "July": "0.68",
+            "August": "0.59",
+            "September": "0.51",
+            "Total": "1.94"
+        },
+        "Tucson": {
+            "June": "1.12",
+            "July": "1.03",
+            "August": "1.47",
+            "September": "0.37",
+            "Total": "3.99"
+        }
+    },
+    "1929": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "1.23",
+            "August": "1.44",
+            "September": "3.312",
+            "Total": "5.98"
+        },
+        "El Paso": {
+            "June": "0.54",
+            "July": "3.01",
+            "August": "1.18",
+            "September": "0.12",
+            "Total": "4.85"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "5.43",
+            "August": "3.03",
+            "September": "0.74",
+            "Total": "9.20"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.79",
+            "August": "2.09",
+            "September": "0.19",
+            "Total": "3.07"
+        },
+        "Tucson": {
+            "June": "0.10",
+            "July": "1.94",
+            "August": "1.62",
+            "September": "4.28",
+            "Total": "7.94"
+        }
+    },
+    "1928": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "2.54",
+            "August": "1.96",
+            "September": "0.05",
+            "Total": "4.55"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "1.15",
+            "August": "2.69",
+            "September": "0.04",
+            "Total": "3.88"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "2.30",
+            "August": "1.82",
+            "September": "0.17",
+            "Total": "4.29"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.11",
+            "August": "1.47",
+            "September": "0.44",
+            "Total": "2.02"
+        },
+        "Tucson": {
+            "June": "0.09",
+            "July": "1.78",
+            "August": "2.28",
+            "September": "0.36",
+            "Total": "4.51"
+        }
+    },
+    "1927": {
+        "Albuquerque": {
+            "June": "0.89",
+            "July": "1.93",
+            "August": "1.63",
+            "September": "1.11",
+            "Total": "5.56"
+        },
+        "El Paso": {
+            "June": "0.10",
+            "July": "2.52",
+            "August": "1.34",
+            "September": "1.04",
+            "Total": "5.00"
+        },
+        "Flagstaff": {
+            "June": "0.17",
+            "July": "2.39",
+            "August": "4.43",
+            "September": "4.62",
+            "Total": "11.61"
+        },
+        "Phoenix": {
+            "June": "0.07",
+            "July": "0.24",
+            "August": "0.69",
+            "September": "0.83",
+            "Total": "1.83"
+        },
+        "Tucson": {
+            "June": "0.04",
+            "July": "1.33",
+            "August": "1.51",
+            "September": "2.34",
+            "Total": "5.22"
+        }
+    },
+    "1926": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "1.16",
+            "August": "0.47",
+            "September": "1.04",
+            "Total": "2.67"
+        },
+        "El Paso": {
+            "June": "0.11",
+            "July": "3.31",
+            "August": "0.27",
+            "September": "2.24",
+            "Total": "5.93"
+        },
+        "Flagstaff": {
+            "June": "0.09",
+            "July": "1.98",
+            "August": "1.29",
+            "September": "1.26",
+            "Total": "4.62"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.31",
+            "August": "0.11",
+            "September": "3.52",
+            "Total": "4.94"
+        },
+        "Tucson": {
+            "June": "0.01",
+            "July": "0.70",
+            "August": "0.10",
+            "September": "2.82",
+            "Total": "3.63"
+        }
+    },
+    "1925": {
+        "Albuquerque": {
+            "June": "0.57",
+            "July": "0.58",
+            "August": "0.49",
+            "September": "1.13",
+            "Total": "2.77"
+        },
+        "El Paso": {
+            "June": "0.17",
+            "July": "1.40",
+            "August": "2.16",
+            "September": "1.03",
+            "Total": "4.76"
+        },
+        "Flagstaff": {
+            "June": "1.45",
+            "July": "1.83",
+            "August": "2.49",
+            "September": "4.65",
+            "Total": "10.42"
+        },
+        "Phoenix": {
+            "June": "0.21",
+            "July": "0.03",
+            "August": "0.61",
+            "September": "0.95",
+            "Total": "1.80"
+        },
+        "Tucson": {
+            "June": "0.86",
+            "July": "1.20",
+            "August": "1.52",
+            "September": "2.95",
+            "Total": "6.53"
+        }
+    },
+    "1924": {
+        "Albuquerque": {
+            "June": "0.20",
+            "July": "2.51",
+            "August": "0.82",
+            "September": "0.22",
+            "Total": "3.75"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "3.00",
+            "August": "2.58",
+            "September": "0.14",
+            "Total": "5.72"
+        },
+        "Flagstaff": {
+            "June": "0.03",
+            "July": "2.91",
+            "August": "0.37",
+            "September": "2.77",
+            "Total": "6.08"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.09",
+            "August": "0.14",
+            "September": "0.12",
+            "Total": "0.35"
+        },
+        "Tucson": {
+            "June": "0.17",
+            "July": "1.15",
+            "August": "0.08",
+            "September": "0.19",
+            "Total": "1.59"
+        }
+    },
+    "1923": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "0.34",
+            "August": "2.34",
+            "September": "0.45",
+            "Total": "3.13"
+        },
+        "El Paso": {
+            "June": "0.09",
+            "July": "0.20",
+            "August": "2.96",
+            "September": "0.41",
+            "Total": "3.66"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "1.08",
+            "August": "1.86",
+            "September": "3.37",
+            "Total": "6.31"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.77",
+            "August": "0.65",
+            "September": "0.97",
+            "Total": "2.39"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "3.00",
+            "August": "4.06",
+            "September": "0.23",
+            "Total": "7.29"
+        }
+    },
+    "1922": {
+        "Albuquerque": {
+            "June": "0.22",
+            "July": "0.25",
+            "August": "1.28",
+            "September": "0.12",
+            "Total": "1.87"
+        },
+        "El Paso": {
+            "June": "0.05",
+            "July": "1.08",
+            "August": "0.27",
+            "September": "1.07",
+            "Total": "2.47"
+        },
+        "Flagstaff": {
+            "June": "1.83",
+            "July": "2.28",
+            "August": "3.24",
+            "September": "1.56",
+            "Total": "8.91"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.74",
+            "August": "0.58",
+            "September": "0.13",
+            "Total": "1.45"
+        },
+        "Tucson": {
+            "June": "0.44",
+            "July": "1.73",
+            "August": "1.18",
+            "September": "1.73",
+            "Total": "5.08"
+        }
+    },
+    "1921": {
+        "Albuquerque": {
+            "June": "0.01",
+            "July": "2.77",
+            "August": "2.60",
+            "September": "0.37",
+            "Total": "5.75"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "2.13",
+            "August": "0.35",
+            "September": "2.49",
+            "Total": "4.97"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "3.78",
+            "August": "4.74",
+            "September": "0.83",
+            "Total": "9.35"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.38",
+            "August": "1.62",
+            "September": "0.33",
+            "Total": "2.33"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "6.24",
+            "August": "1.79",
+            "September": "3.01",
+            "Total": "11.04"
+        }
+    },
+    "1920": {
+        "Albuquerque": {
+            "June": "0.67",
+            "July": "0.15",
+            "August": "1.50",
+            "September": "0.29",
+            "Total": "2.61"
+        },
+        "El Paso": {
+            "June": "0.56",
+            "July": "0.84",
+            "August": "1.33",
+            "September": "0.31",
+            "Total": "3.04"
+        },
+        "Flagstaff": {
+            "June": "0.01",
+            "July": "1.36",
+            "August": "2.39",
+            "September": "0.79",
+            "Total": "4.55"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.25",
+            "August": "0.75",
+            "September": "0.10",
+            "Total": "1.10"
+        },
+        "Tucson": {
+            "June": "0.34",
+            "July": "0.25",
+            "August": "2.84",
+            "September": "0.74",
+            "Total": "4.17"
+        }
+    },
+    "1919": {
+        "Albuquerque": {
+            "June": "0.83",
+            "July": "4.12",
+            "August": "0.98",
+            "September": "1.36",
+            "Total": "7.29"
+        },
+        "El Paso": {
+            "June": "0.27",
+            "July": "1.87",
+            "August": "0.72",
+            "September": "3.30",
+            "Total": "6.16"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "7.58",
+            "August": "2.87",
+            "September": "1.54",
+            "Total": "11.99"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.05",
+            "August": "2.40",
+            "September": "1.93",
+            "Total": "5.38"
+        },
+        "Tucson": {
+            "June": "0.32",
+            "July": "5.53",
+            "August": "1.82",
+            "September": "2.54",
+            "Total": "10.21"
+        }
+    },
+    "1918": {
+        "Albuquerque": {
+            "June": "0.17",
+            "July": "0.95",
+            "August": "1.46",
+            "September": "0.15",
+            "Total": "2.73"
+        },
+        "El Paso": {
+            "June": "0.23",
+            "July": "1.52",
+            "August": "1.66",
+            "September": "0.01",
+            "Total": "3.42"
+        },
+        "Flagstaff": {
+            "June": "0.47",
+            "July": "5.47",
+            "August": "2.83",
+            "September": "1.04",
+            "Total": "9.81"
+        },
+        "Phoenix": {
+            "June": "0.08",
+            "July": "1.02",
+            "August": "3.47",
+            "September": "0.39",
+            "Total": "4.96"
+        },
+        "Tucson": {
+            "June": "0.34",
+            "July": "1.54",
+            "August": "0.78",
+            "September": "0.13",
+            "Total": "2.79"
+        }
+    },
+    "1917": {
+        "Albuquerque": {
+            "June": "0.18",
+            "July": "0.25",
+            "August": "0.56",
+            "September": "0.60",
+            "Total": "1.59"
+        },
+        "El Paso": {
+            "June": "0.36",
+            "July": "0.41",
+            "August": "4.39",
+            "September": "0.76",
+            "Total": "5.92"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "5.93",
+            "August": "1.11",
+            "September": "1.78",
+            "Total": "8.82"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "3.97",
+            "August": "0.11",
+            "September": "0.55",
+            "Total": "4.63"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "3.90",
+            "August": "2.31",
+            "September": "0.88",
+            "Total": "7.09"
+        }
+    },
+    "1916": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "1.91",
+            "August": "2.42",
+            "September": "0.34",
+            "Total": "4.67"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "0.59",
+            "August": "3.07",
+            "September": "0.55",
+            "Total": "4.21"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "2.46",
+            "August": "3.29",
+            "September": "1.78",
+            "Total": "7.53"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.77",
+            "August": "0.30",
+            "September": "1.66",
+            "Total": "2.73"
+        },
+        "Tucson": {
+            "June": "0.07",
+            "July": "2.03",
+            "August": "2.26",
+            "September": "1.29",
+            "Total": "5.65"
+        }
+    },
+    "1915": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "2.92",
+            "August": "0.83",
+            "September": "1.18",
+            "Total": "4.93"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "2.45",
+            "August": "1.37",
+            "September": "2.68",
+            "Total": "6.50"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "4.54",
+            "August": "0.54",
+            "September": "0.65",
+            "Total": "5.73"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.12",
+            "August": "0.25",
+            "September": "0.10",
+            "Total": "1.47"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "2.39",
+            "August": "1.51",
+            "September": "0.92",
+            "Total": "4.82"
+        }
+    },
+    "1914": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "2.01",
+            "August": "2.00",
+            "September": "0.20",
+            "Total": "4.21"
+        },
+        "El Paso": {
+            "June": "0.07",
+            "July": "4.91",
+            "August": "1.85",
+            "September": "0.56",
+            "Total": "7.49"
+        },
+        "Flagstaff": {
+            "June": "0.78",
+            "July": "4.48",
+            "August": "2.30",
+            "September": "0.56",
+            "Total": "8.12"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.21",
+            "August": "0.30",
+            "September": "0.00",
+            "Total": "0.51"
+        },
+        "Tucson": {
+            "June": "0.44",
+            "July": "2.94",
+            "August": "3.45",
+            "September": "0.40",
+            "Total": "7.23"
+        }
+    },
+    "1913": {
+        "Albuquerque": {
+            "June": "0.85",
+            "July": "0.46",
+            "August": "0.59",
+            "September": "0.55",
+            "Total": "2.45"
+        },
+        "El Paso": {
+            "June": "0.57",
+            "July": "1.13",
+            "August": "0.54",
+            "September": "0.60",
+            "Total": "2.84"
+        },
+        "Flagstaff": {
+            "June": "0.04",
+            "July": "1.93",
+            "August": "2.20",
+            "September": "1.89",
+            "Total": "6.06"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.94",
+            "August": "0.32",
+            "September": "0.13",
+            "Total": "1.39"
+        },
+        "Tucson": {
+            "June": "0.08",
+            "July": "1.32",
+            "August": "1.21",
+            "September": "0.14",
+            "Total": "2.75"
+        }
+    },
+    "1912": {
+        "Albuquerque": {
+            "June": "0.18",
+            "July": "2.39",
+            "August": "0.63",
+            "September": "0.29",
+            "Total": "3.49"
+        },
+        "El Paso": {
+            "June": "0.40",
+            "July": "1.11",
+            "August": "2.83",
+            "September": "1.77",
+            "Total": "6.11"
+        },
+        "Flagstaff": {
+            "June": "0.11",
+            "July": "4.96",
+            "August": "0.61",
+            "September": "0.08",
+            "Total": "5.76"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.29",
+            "August": "0.72",
+            "September": "0.14",
+            "Total": "2.15"
+        },
+        "Tucson": {
+            "June": "0.55",
+            "July": "3.00",
+            "August": "0.96",
+            "September": "0.01",
+            "Total": "4.52"
+        }
+    },
+    "1911": {
+        "Albuquerque": {
+            "June": "0.76",
+            "July": "2.14",
+            "August": "0.62",
+            "September": "1.55",
+            "Total": "5.07"
+        },
+        "El Paso": {
+            "June": "0.55",
+            "July": "3.43",
+            "August": "0.45",
+            "September": "1.00",
+            "Total": "5.43"
+        },
+        "Flagstaff": {
+            "June": "0.26",
+            "July": "5.53",
+            "August": "2.45",
+            "September": "4.41",
+            "Total": "12.65"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "6.47",
+            "August": "1.68",
+            "September": "1.16",
+            "Total": "9.31"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "1.57",
+            "August": "2.06",
+            "September": "2.65",
+            "Total": "6.28"
+        }
+    },
+    "1910": {
+        "Albuquerque": {
+            "June": "0.79",
+            "July": "1.88",
+            "August": "1.51",
+            "September": "0.06",
+            "Total": "4.24"
+        },
+        "El Paso": {
+            "June": "1.35",
+            "July": "0.60",
+            "August": "1.18",
+            "September": "0.24",
+            "Total": "3.37"
+        },
+        "Flagstaff": {
+            "June": "0.61",
+            "July": "3.07",
+            "August": "3.74",
+            "September": "0.81",
+            "Total": "8.23"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.65",
+            "August": "0.14",
+            "September": "0.00",
+            "Total": "0.79"
+        },
+        "Tucson": {
+            "June": "0.12",
+            "July": "4.21",
+            "August": "2.55",
+            "September": "0.30",
+            "Total": "7.18"
+        }
+    },
+    "1909": {
+        "Albuquerque": {
+            "June": "0.12",
+            "July": "0.85",
+            "August": "1.56",
+            "September": "0.52",
+            "Total": "3.05"
+        },
+        "El Paso": {
+            "June": "0.05",
+            "July": "1.62",
+            "August": "0.51",
+            "September": "0.60",
+            "Total": "2.78"
+        },
+        "Flagstaff": {
+            "June": "0.17",
+            "July": "1.74",
+            "August": "6.73",
+            "September": "1.74",
+            "Total": "10.38"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.00",
+            "August": "1.94",
+            "September": "0.42",
+            "Total": "3.36"
+        },
+        "Tucson": {
+            "June": "0.54",
+            "July": "4.04",
+            "August": "1.36",
+            "September": "1.25",
+            "Total": "7.19"
+        }
+    },
+    "1908": {
+        "Albuquerque": {
+            "June": "0.28",
+            "July": "1.52",
+            "August": "1.75",
+            "September": "0.37",
+            "Total": "3.92"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "2.07",
+            "August": "2.55",
+            "September": "0.00",
+            "Total": "4.62"
+        },
+        "Flagstaff": {
+            "June": "0.65",
+            "July": "3.90",
+            "August": "4.69",
+            "September": "0.99",
+            "Total": "10.23"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "2.98",
+            "August": "0.81",
+            "September": "0.51",
+            "Total": "4.30"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "4.77",
+            "August": "2.18",
+            "September": "0.55",
+            "Total": "7.50"
+        }
+    },
+    "1907": {
+        "Albuquerque": {
+            "June": "0.18",
+            "July": "0.93",
+            "August": "2.13",
+            "September": "0.20",
+            "Total": "3.44"
+        },
+        "El Paso": {
+            "June": "0.76",
+            "July": "0.35",
+            "August": "2.50",
+            "September": "0.96",
+            "Total": "4.57"
+        },
+        "Flagstaff": {
+            "June": "0.10",
+            "July": "3.22",
+            "August": "5.36",
+            "September": "1.17",
+            "Total": "9.85"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "2.18",
+            "August": "0.80",
+            "September": "0.02",
+            "Total": "3.00"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "4.27",
+            "August": "3.46",
+            "September": "0.80",
+            "Total": "8.53"
+        }
+    },
+    "1906": {
+        "Albuquerque": {
+            "June": "0.02",
+            "July": "1.93",
+            "August": "0.85",
+            "September": "1.80",
+            "Total": "4.60"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "2.02",
+            "August": "4.10",
+            "September": "1.18",
+            "Total": "7.30"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "1.39",
+            "August": "3.28",
+            "September": "1.67",
+            "Total": "6.34"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.20",
+            "August": "2.07",
+            "September": "0.00",
+            "Total": "2.27"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "1.82",
+            "August": "2.53",
+            "September": "0.43",
+            "Total": "4.78"
+        }
+    },
+    "1905": {
+        "Albuquerque": {
+            "June": "0.02",
+            "July": "0.22",
+            "August": "0.72",
+            "September": "0.59",
+            "Total": "1.55"
+        },
+        "El Paso": {
+            "June": "0.08",
+            "July": "2.55",
+            "August": "0.53",
+            "September": "2.29",
+            "Total": "5.45"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "2.42",
+            "August": "2.34",
+            "September": "4.23",
+            "Total": "8.99"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.28",
+            "August": "0.92",
+            "September": "1.23",
+            "Total": "2.43"
+        },
+        "Tucson": {
+            "June": "0.01",
+            "July": "1.10",
+            "August": "0.56",
+            "September": "2.84",
+            "Total": "4.51"
+        }
+    },
+    "1904": {
+        "Albuquerque": {
+            "June": "0.32",
+            "July": "0.94",
+            "August": "1.88",
+            "September": "1.42",
+            "Total": "4.56"
+        },
+        "El Paso": {
+            "June": "0.54",
+            "July": "0.59",
+            "August": "2.24",
+            "September": "3.50",
+            "Total": "6.87"
+        },
+        "Flagstaff": {
+            "June": "0.18",
+            "July": "3.61",
+            "August": "8.77",
+            "September": "1.39",
+            "Total": "13.95"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.89",
+            "August": "1.61",
+            "September": "1.23",
+            "Total": "4.73"
+        },
+        "Tucson": {
+            "June": "0.18",
+            "July": "1.75",
+            "August": "2.65",
+            "September": "0.89",
+            "Total": "5.47"
+        }
+    },
+    "1903": {
+        "Albuquerque": {
+            "June": "0.45",
+            "July": "0.32",
+            "August": "0.003",
+            "September": "1.93",
+            "Total": "2.70"
+        },
+        "El Paso": {
+            "June": "0.02",
+            "July": "1.19",
+            "August": "1.73",
+            "September": "3.52",
+            "Total": "6.46"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "3.01",
+            "August": "2.26",
+            "September": "4.68",
+            "Total": "9.95"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.70",
+            "August": "0.70",
+            "September": "3.16",
+            "Total": "4.56"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "1.52",
+            "August": "2.67",
+            "September": "1.17",
+            "Total": "5.36"
+        }
+    },
+    "1902": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "1.18",
+            "August": "0.70",
+            "September": "0.55",
+            "Total": "2.43"
+        },
+        "El Paso": {
+            "June": "0.00",
+            "July": "3.27",
+            "August": "2.85",
+            "September": "1.86",
+            "Total": "7.98"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "1.28",
+            "August": "6.10",
+            "September": "1.12",
+            "Total": "8.50"
+        },
+        "Phoenix": {
+            "June": "0.12",
+            "July": "0.32",
+            "August": "0.56",
+            "September": "1.46",
+            "Total": "2.46"
+        },
+        "Tucson": {
+            "June": "0.19",
+            "July": "0.42",
+            "August": "1.31",
+            "September": "0.58",
+            "Total": "2.50"
+        }
+    },
+    "1901": {
+        "Albuquerque": {
+            "June": "0.00",
+            "July": "1.46",
+            "August": "1.85",
+            "September": "1.21",
+            "Total": "4.52"
+        },
+        "El Paso": {
+            "June": "0.39",
+            "July": "1.05",
+            "August": "0.34",
+            "September": "0.82",
+            "Total": "2.60"
+        },
+        "Flagstaff": {
+            "June": "0.00",
+            "July": "3.02",
+            "August": "1.52",
+            "September": "0.15",
+            "Total": "4.69"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "0.35",
+            "August": "1.73",
+            "September": "0.00",
+            "Total": "2.08"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "2.57",
+            "August": "1.99",
+            "September": "0.28",
+            "Total": "4.84"
+        }
+    },
+    "1900": {
+        "Albuquerque": {
+            "June": "0.03",
+            "July": "0.13",
+            "August": "0.13",
+            "September": "2.09",
+            "Total": "2.38"
+        },
+        "El Paso": {
+            "June": "0.26",
+            "July": "2.38",
+            "August": "0.43",
+            "September": "2.18",
+            "Total": "5.25"
+        },
+        "Flagstaff": {
+            "June": "0.70",
+            "July": "0.23",
+            "August": "1.70",
+            "September": "2.77",
+            "Total": "5.40"
+        },
+        "Phoenix": {
+            "June": "0.00",
+            "July": "1.70",
+            "August": "0.01",
+            "September": "0.12",
+            "Total": "1.83"
+        },
+        "Tucson": {
+            "June": "0.00",
+            "July": "0.65",
+            "August": "0.95",
+            "September": "0.85",
+            "Total": "2.45"
+        }
+    },
+    "1899": {
+        "Albuquerque": {
+            "June": "0.44",
+            "July": "3.23",
+            "August": "0.63",
+            "September": "1.20",
+            "Total": "5.50"
+        },
+        "El Paso": {
+            "June": "0.32",
+            "July": "3.08",
+            "August": "0.91",
+            "September": "0.64",
+            "Total": "4.95"
+        },
+        "Flagstaff": {
+            "June": "0.43",
+            "July": "2.62",
+            "August": "2.72",
+            "September": "0.14",
+            "Total": "5.91"
+        },
+        "Phoenix": {
+            "June": "0.61",
+            "July": "0.87",
+            "August": "0.89",
+            "September": "0.37",
+            "Total": "2.74"
+        },
+        "Tucson": {
+            "June": "0.68",
+            "July": "1.87",
+            "August": "1.82",
+            "September": "0.03",
+            "Total": "4.40"
+        }
+    }
+}

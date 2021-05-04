@@ -1,0 +1,37 @@
+{
+    "Albuquerque": {
+        "June": "0.48",
+        "July": "0.85",
+        "August": "1.49",
+        "September": "2.20",
+        "Total": "5.02"
+    },
+    "El Paso": {
+        "June": "1.00",
+        "July": "3.37",
+        "August": "2.01",
+        "September": "1.16",
+        "Total": "7.54"
+    },
+    "Flagstaff": {
+        "June": "0.17",
+        "July": "4.48",
+        "August": "3.29",
+        "September": "0.42",
+        "Total": "8.36"
+    },
+    "Phoenix": {
+        "June": "0.00",
+        "July": "0.89",
+        "August": "1.43",
+        "September": "0.00",
+        "Total": "2.32"
+    },
+    "Tucson": {
+        "June": "0.00",
+        "July": "6.80",
+        "August": "1.74",
+        "September": "0.03",
+        "Total": "8.57"
+    }
+}
