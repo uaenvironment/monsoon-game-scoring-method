@@ -1,32 +1,7 @@
-Game Sim Viz
+Introduction
 ------------
 
-Author: CJ Larsen [seajaylarsen@email.arizona.edu]<br/>
-Date: April 27, 2021
-
-## Graph Notes
-
-Consists of three bar charts (one for each scoring method), utilizing the same 1000 user simulated guesses for each graph. The scale ranges are 0-80 for both axes, so that the charts can be compared against eachother easily.
-
-## How it Works
-
-### To Create New Simulation Data Set
-
-1 - Run newsim.py, this will generate the guesses/points.<br/>
-2 - Refresh/open index.html in browser, this will create and display the charts.
-
-### newsim.py
-
-This Python script will simulate a season's worth of guesses/points for 1000 users. It runs as so:<br/>
-* The 'actual' rainfall for the year is read in from input.json.
-* Historical rainfall is read in from HistoricalCleaned.json. The standard deviation, mean, and decile ranges are also calculate for each month in each city.
-- Guesses are simulated for each user by choosing a random decile (0-10, 10-20, ect) for each month in each city.
-- Points are calculated for each guess based off of each scoring function (a, b or c).
-- Points are converted and written to output.js so it can be visualized with d3.
-
-### sim.js
-
-This JavaScript file just creates three bar charts based off of the data in output.js.
+This repository contains a description of the scoring system used in the Monsoon Fantasy game and a simulation that was used to compare different scoring methods before the final scoring method was decided upon. The final scoring method takes into account both the risk and accuracy of a players guess. First, a potential maximum points value is determined for a guess. This value is higher the further a guess is from the historical rainfall average. Then, the player gets a percentage of their potential maximum points value depending on how close their guess is to the actual rainfall. This is explained in more detail in the scoring system section below. The simulation is for demonstration purposes. It creates a dataset with guesses and points for simulated users than graphs their total points. 
 
 ## Included files
 
@@ -38,7 +13,6 @@ This JavaScript file just creates three bar charts based off of the data in outp
 * input.json -- input file containing total rainfall for each month in each city
 * HistoricalCleaned.json -- historical rain data going back to 1899
 * output.js -- output file from python to be used in javascript
-
 
 The Scoring System
 ------------------
@@ -144,3 +118,33 @@ function getScore(average,standardDeviation,rainfall,guess){
     }
 }
 ```
+
+Game Sim Viz
+------------
+
+Author: CJ Larsen [seajaylarsen@email.arizona.edu]<br/>
+Date: April 27, 2021
+
+## Graph Notes
+
+Consists of three bar charts (one for each scoring method), utilizing the same 1000 user simulated guesses for each graph. The scale ranges are 0-80 for both axes, so that the charts can be compared against eachother easily.
+
+## How it Works
+
+### To Create New Simulation Data Set
+
+1 - Run newsim.py, this will generate the guesses/points.<br/>
+2 - Refresh/open index.html in browser, this will create and display the charts.
+
+### newsim.py
+
+This Python script will simulate a season's worth of guesses/points for 1000 users. It runs as so:<br/>
+* The 'actual' rainfall for the year is read in from input.json.
+* Historical rainfall is read in from HistoricalCleaned.json. The standard deviation, mean, and decile ranges are also calculate for each month in each city.
+- Guesses are simulated for each user by choosing a random decile (0-10, 10-20, ect) for each month in each city.
+- Points are calculated for each guess based off of each scoring function (a, b or c).
+- Points are converted and written to output.js so it can be visualized with d3.
+
+### sim.js
+
+This JavaScript file just creates three bar charts based off of the data in output.js.
