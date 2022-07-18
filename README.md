@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-This repository contains a description of the scoring system used in the Monsoon Fantasy game and a simulation that was used to compare different scoring methods before the final scoring method was decided upon. The final scoring method takes into account both the risk and accuracy of a players guess. First, a potential maximum points value is determined for a guess. This value is higher the further a guess is from the historical rainfall average. Then, the player gets a percentage of their potential maximum points value depending on how close their guess is to the actual rainfall. This is explained in more detail in the scoring system section below. The simulation is for demonstration purposes. It creates a dataset with guesses and points for simulated users than graphs their total points. 
+This repository contains a description of the scoring system used in the [Monsoon Fantasy](https://monsoonfantasy.arizona.edu/home) game and a simulation that was used to compare different scoring methods before the final scoring method was decided upon. The final scoring method takes into account both the risk and accuracy of a players guess. First, a potential maximum points value is determined for a guess. This value is higher the further a guess is from the historical rainfall average. Then, the player gets a percentage of their potential maximum points value depending on how close their guess is to the actual rainfall. This is explained in more detail in the scoring system section below. The simulation is for demonstration purposes. It creates a dataset with guesses and points for simulated users than graphs their total points. 
 
 ## Included files
 
@@ -63,7 +63,7 @@ You can see how riskiness and accuracy are combined to generate points in the ta
 
 For those interested in how the maximum points are derived mathematically, please read on ☺. 
 
-# For the more technically interested...
+## For the more technically interested...
 ***Here’s how we calculate the maximum points.***
 
 First, the monthly total rainfall distributions are not normally distributed. They have a positive skew which means the mean value is greater than the median value. We therefore used an equation to account for this skew.
