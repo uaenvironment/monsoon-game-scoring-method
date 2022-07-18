@@ -1,3 +1,11 @@
+Table of Contents
+-----------------
+[Introduction](https://github.com/UAEnvironmentIT/monsoon-game-scoring-method#introduction)<br>
+[Included Files](https://github.com/UAEnvironmentIT/monsoon-game-scoring-method#included-files)<br>
+[The Scoring System](https://github.com/UAEnvironmentIT/monsoon-game-scoring-method#the-scoring-system)<br>
+[The Scoring System - Technical Description](https://github.com/UAEnvironmentIT/monsoon-game-scoring-method#for-the-more-technically-interested)<br>
+[Game Simulation](https://github.com/UAEnvironmentIT/monsoon-game-scoring-method#game-sim-viz)<br>
+
 Introduction
 ------------
 
