@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/364066909.svg)](https://zenodo.org/badge/latestdoi/364066909)
+
 Table of Contents
 -----------------
 [Introduction](https://github.com/UAEnvironmentIT/monsoon-game-scoring-method#introduction)<br>
